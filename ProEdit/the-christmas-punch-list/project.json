@@ -1,20 +1,32 @@
 {
   "title": "The Christmas Punch List",
   "author_pen_name": "Emma Bramwell",
-  "genre": "holiday small-town romance (rivals-to-lovers Christmas romance)",
-  "wordcount": 70327,
+  "genre": "holiday small-town romance (A Caswell Harbor Christmas Romance)",
+  "wordcount": 71263,
   "chapters": 27,
   "chapter_note": "26 numbered chapters plus an Epilogue",
   "manuscript_path": "ProEdit/the-christmas-punch-list/The-Christmas-Punch-List.docx",
-  "working_manuscript": "ProEdit/the-christmas-punch-list/The-Christmas-Punch-List.docx",
-  "extracted_text": "ProEdit/the-christmas-punch-list/manuscript.md",
+  "working_manuscript": "ProEdit/the-christmas-punch-list/The-Christmas-Punch-List-dev-revisions-clean.docx",
+  "extracted_text": "ProEdit/the-christmas-punch-list/manuscript-revised.md",
   "created": "2026-11-04",
   "stages": {
     "dev": {
       "status": "done",
       "completed": "2026-11-04",
       "artifact": "ProEdit/the-christmas-punch-list/the-christmas-punch-list-editorial-letter.docx",
-      "revised": "2026-11-04"
+      "revised": "2026-11-04",
+      "revisions": {
+        "applied": "2026-11-04",
+        "redline": "ProEdit/the-christmas-punch-list/The-Christmas-Punch-List-dev-revisions-REDLINE.docx",
+        "clean": "ProEdit/the-christmas-punch-list/The-Christmas-Punch-List-dev-revisions-clean.docx",
+        "decisions": {
+          "1_ask_on_page": "added: new final scene ch 23",
+          "2_yes_beat": "added: one paragraph ch 25",
+          "3_series_seeding": "added: Rachel at tree lighting ch 14; \"Sienna's people\" ch 26; no crowd trim",
+          "4_both_or_neither": "added: one paragraph ch 23",
+          "5_rivalry": "declined: slow warming kept"
+        }
+      }
     },
     "structure": {
       "status": "todo",

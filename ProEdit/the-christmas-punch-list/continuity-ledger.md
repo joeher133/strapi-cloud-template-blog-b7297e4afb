@@ -467,3 +467,11 @@ Emma Bramwell | holiday small-town romance | built 2026-11-04 by /edit-intake
 11. Lourdes's relation to Izzy: "Aunt Lourdes" (ch 6) | Izzy's great-aunt; Lourdes's great-niece (ch 19).
 12. Shelves in Nico's case: four shelves (ch 17) | "Yours has three shelves" (ch 25) | "It's got four shelves." (epilogue).
 13. Position of the reinstalled supper-room door casing: reinstalled "a sixteenth lower, by eye" (ch 23) | "exactly as it had been on the twenty-seventh of November" (ch 23).
+
+## Additions from developmental revisions (2026-11-04)
+- Rachel: runs the play (ch 14); long black coat, pencil through her hair, counts the cast with a rolled script at the church steps (ch 14). Wayne runs the barn (ch 14).
+- Izzy plays Pip in The Keeper's Light; Pip has two lines (ch 14; ch 26).
+- The Brooks family are "Sienna's people" (ch 26).
+- Humberto answers the Warren kitchen phone "Medeiros" (ch 23); answered on the first ring at six on Christmas Eve (ch 23).
+- Tara's Christmas Eve calls: father at 6:00 (ch 23, ch 24, ch 25); marshal's office at 6:10, Lachance calls back at 6:20 and says "Eleven" (ch 23); Josie at 6:30, number from the bottom of Angela's printout (ch 23; ch 24).
+- Timeline: ch 23 now ends at about 6:30 a.m. on December 24 (the call scene), under the dateline "One day to the reopening".
