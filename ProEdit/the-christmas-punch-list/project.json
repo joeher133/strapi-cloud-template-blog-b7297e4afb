@@ -11,9 +11,9 @@
   "created": "2026-11-04",
   "stages": {
     "dev": {
-      "status": "todo",
-      "completed": null,
-      "artifact": null
+      "status": "done",
+      "completed": "2026-11-04",
+      "artifact": "ProEdit/the-christmas-punch-list/the-christmas-punch-list-editorial-letter.docx"
     },
     "structure": {
       "status": "todo",
