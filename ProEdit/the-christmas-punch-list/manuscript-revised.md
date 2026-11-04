@@ -94,7 +94,7 @@ Elijah thought about it with his mouth full. "Since I was nineteen. You get used
 
 The driver had his signature and was gone to his other stops. Nico stood between the two tarped crates with his hands on his hips and looked up at the hall's tall side windows, and then down at the crates, and then up again. He did it three times. Tara counted.
 
-The white box sat open on the trailer step. Elijah had eaten two of the pastries and was considering a third. They were shaped like shells, layered thin as onion skin, and powdered sugar had come off them onto everything, including the step and Elijah's vest. Tara did not take one. She noticed that Nico did not take one either, though he had carried the box down from Providence on his lap and kept checking on it from across the lot.
+The white box sat open on the trailer step. Elijah had eaten two of the pastries and was considering a third. They were shaped like shells, layered thin as onion skin, and powdered sugar had come off them onto everything, including the step and Elijah's vest. Tara did not take one. Nico did not take one either, though he had carried the box down from Providence on his lap and kept checking on it from across the lot.
 
 Brian Doyle came up the sidewalk at seven-thirty with a cardboard tray of coffees from Almeida's and a roll of SHOP SMALL stickers under one arm.
 
@@ -120,7 +120,7 @@ Tara held the coffee.
 
 "I think in her mind it was more of an announcement." Brian handed Nico the last coffee. "Which is why I wanted you to hear it from me. Since you've entered too. So your contractor is also, technically, I'd say in a friendly sense, your competition."
 
-Nico took the coffee. He looked at Tara over the lid, and she watched his face do something she had not seen it do on the sidewalk or in the doorway: it went still and interested, as if she had just been delivered on a flatbed.
+Nico took the coffee. He looked at Tara over the lid, and his face did something she had not seen it do on the sidewalk or in the doorway: it went still and interested, as if she had just been delivered on a flatbed.
 
 "You're in," he said.
 
@@ -320,7 +320,7 @@ It could have ended there. He could see the place where it ended, Olivia folding
 
 There was a silence in which he understood several things at once. Olivia had just been told, in front of her booth on the first Sunday of Advent, that she had been rude, by a man whose sign she had objected to in writing. The booth had just learned that the contractor had been ambushed by Brian Doyle, and that her defender was her rival, and it was going to have opinions about why. And Tara, he saw, had wanted none of it.
 
-"I don't need a lawyer," Tara said to him, flatly, in a whole sentence, and it landed somewhere under his ribs. "I can say no myself."
+"I don't need a lawyer," Tara said to him, in a whole sentence, and it landed somewhere under his ribs. "I can say no myself."
 
 "Okay," he said. "You're right. I'm sorry."
 
@@ -354,7 +354,7 @@ Lourdes looked at him over her glasses, and he kept going. "She's been over ther
 
 Nico looked across the street. In the side lot his ovens sat under their tarps with the corners tied down in her knots, which were better than his, and which he had checked on his way in this morning and found holding. Twenty-six days, and nothing he could say at this counter would get either oven through that door.
 
-He could have walked across the street with half an egg sandwich in wax paper and said it to her face. He could hear exactly how that would go. He had just been told, in a whole sentence, that she could say no herself, and he believed her.
+He could have walked across the street with half an egg sandwich in wax paper and said it to her face, and he could hear how that would go. He had just been told, in a whole sentence, that she could say no herself, and he believed her.
 
 "Wrap it," he said, and pushed the plate an inch toward Lourdes. "I'll bring her something. Something good."
 
@@ -398,7 +398,7 @@ Nico said, "Thank you," and meant it, she could tell, which was more than most t
 
 Lachance looked at him for a moment, then wrote something down. Tara read the joists while he wrote.
 
-The rest of it he did not need to say, because she had said it on the sidewalk on Saturday, and because it was written on her list in her own hand, items nine and ten. The hood hung from her ceiling framing. Her ceiling could not close until the hood and its duct were set through it, sealed, and inspected. So she had to finish framing before he could hang anything, and he had to hang before she could close, and she had to close before Lachance would come back, and Lachance had to come back before anyone could open. It went around the room like that, ending where it started, a circle with two ovens sitting outside it under tarps.
+The rest of it he did not need to say, because she had said it on the sidewalk on Saturday, and because it was written on her list in her own hand, items nine and ten. The hood hung from her ceiling framing. Her ceiling could not close until the hood and its duct were set through it, sealed, and inspected. So she had to finish framing before Nico could hang anything, and he had to hang before she could close, and she had to close before Lachance would come back, and Lachance had to come back before anyone could open. It went around the room like that, ending where it started, a circle with two ovens sitting outside it under tarps.
 
 "Framing's done the seventh," she said. "Hood goes up the eighth."
 
@@ -436,7 +436,7 @@ The steps were granite, three of them, worn hollow in the middle by a century of
 
 "The ovens come in when they fit through the door."
 
-He looked at the door, the right-hand one, behind her. She watched him look at it. He had looked at it on Saturday the way people look at a wall they plan to go through, and today he looked at it longer, at the casing, the crown, the cut-nail heads painted over a dozen times.
+He looked at the door, the right-hand one, behind her. He had looked at it on Saturday the way people look at a wall they plan to go through, and today he looked at it longer, at the casing, the crown, the cut-nail heads painted over a dozen times.
 
 "And the trim," he said.
 
@@ -446,7 +446,7 @@ He looked at the door, the right-hand one, behind her. She watched him look at i
 
 "I know how many inches."
 
-He let that sit. Then he said, quieter, in whole sentences, and she understood it was the first thing he had said to her that was not also for an audience: "I open on Christmas Eve. If the hood goes up the eighth and the ovens come in the eighth, I have sixteen days to learn two ovens, a hood and a town. I can do that. I've done worse. But if the eighth becomes the fifteenth, I don't open. I want you to know that I know that."
+He let that sit. Then he said, quieter, in whole sentences, the first thing he had said to her that was not also for an audience: "I open on Christmas Eve. If the hood goes up the eighth and the ovens come in the eighth, I have sixteen days to learn two ovens, a hood and a town. I can do that. I've done worse. But if the eighth becomes the fifteenth, I don't open. I want you to know that I know that."
 
 "I know you know that."
 
@@ -466,7 +466,7 @@ Lourdes came across Main Street in her apron and an unzipped parka, with a dish 
 
 "Sfogliatelle," Nico said. "For the fire marshal. He wouldn't."
 
-"He never does." Lourdes did not take one. "I close at two. After two my kitchen's empty till morning, except rehearsal nights, Monday through Thursday, when the cast comes in at nine-thirty and I need it back by nine. Two ovens. One's old. It runs hot in the back left, you turn your trays." She said all of it to Nico, flatly, like an order read back. "You want it, it's yours after two. You clean up. You don't touch my pie shelf."
+"He never does." Lourdes did not take one. "I close at two. After two my kitchen's empty till morning, except rehearsal nights, Monday through Thursday, when the cast comes in at nine-thirty and I need it back by nine. Two ovens. One's old. It runs hot in the back left, you turn your trays." She said all of it to Nico like an order read back. "You want it, it's yours after two. You clean up. You don't touch my pie shelf."
 
 Nico stood up so fast the box slid, and Tara caught it with her boot.
 
@@ -534,7 +534,7 @@ The envelope was Grange letterhead. Tara opened it on the sidewalk. The first sh
 
 Tara folded the sheets back along their creases.
 
-In the end it was the signature. She looked at the bottom of the second sheet and saw OLIVIA MITCHELL, CHAIR, in the same blue ink that would go at the bottom of the final payment, the check that cleared on the twenty-third or not at all. The committee was her client. Its chair wanted one thing from her that was not on the drawings, and asked for it on letterhead, and apologized first. A contractor who said no to that went into January with a client who was owed.
+In the end it was the signature. At the bottom of the second sheet was OLIVIA MITCHELL, CHAIR, in the same blue ink that would go at the bottom of the final payment, the check that cleared on the twenty-third or not at all. The committee was her client. Its chair wanted one thing from her that was not on the drawings, and asked for it on letterhead, and apologized first. A contractor who said no to that went into January with a client who was owed.
 
 She did the rest of the arithmetic standing on the sidewalk. A lighthouse was evenings. Evenings were the trailer, after the crew went home, which was when she did the numbers anyway. She could build a tower out of anything. The cost was sleep, and she had been spending sleep since September. The thing she did not put a number on was across the street in Lourdes's kitchen, with his sleeves pushed up and flour on his eyebrow, and was going to try very hard to win.
 
@@ -720,7 +720,7 @@ She came down the ladder then. She came as she had walked him out of her doorway
 
 "I have it in my phone. I have everything in my phone." He shifted the tray to his left arm and dug the phone out of his back pocket with his right, and found the sheet, and turned the screen toward her. "Six hundred and forty pounds. Dry. Without the duct."
 
-She leaned to read it. She read it the way she had read the casing on Saturday, all of it, the footnotes, and while she read, without looking down and without looking at him, she reached into the tray on his arm and took one shell.
+She leaned to read it. She read it the way she had read the casing, all of it, the footnotes, and while she read, without looking down and without looking at him, she reached into the tray on his arm and took one shell.
 
 He held still. He knew enough to do that. Her hand went back to her side with the shell in it, sugar coming off on her fingers, and she went on reading his screen.
 
@@ -736,7 +736,7 @@ Something happened at the corner of her mouth and was put away. Elijah, behind h
 
 "Why are you feeding my crew?" she said.
 
-It was a real question. He heard it as one. He could have answered it with a joke, he had a handful ready, and he looked at her standing in her doorway with his shell in her hand and plaster dust on her cap and her watch reading three-oh-two, and he answered it straight.
+It was a real question. He could have answered it with a joke, he had a handful ready, and he looked at her standing in her doorway with his shell in her hand and plaster dust on her cap and her watch reading three-oh-two, and he answered it straight.
 
 "Because they're cold, and I can't sell anything until you're done," he said. "It's the only thing in this building I'm allowed to do."
 
@@ -748,7 +748,7 @@ Elijah took the tray off his arm. "I'll bring it back, Chef."
 
 "I always do," said Elijah, and he had known Nico four days.
 
-By full dark the cold had come down for good, and nothing on Main Street was lit but Lourdes's kitchen, where the walls lay drying on racks under a clean towel, and the trailer across the street with its one window lit. Nico had a second batch of dough resting in the corner by Lourdes's old oven, which ran hot, so he had found the one use for it. Tuesday was a rehearsal night. He had until nine.
+By full dark the cold had come down for good, and nothing on Main Street was lit but Lourdes's kitchen, where the walls lay drying on racks under a clean towel, and the one window of the trailer across the street. Nico had a second batch of dough resting in the corner by Lourdes's old oven, which ran hot, so he had found the one use for it. Tuesday was a rehearsal night. He had until nine.
 
 Elijah came across at five past six with the tray under his arm like a schoolbook. He knocked on the back door, which nobody did in Caswell Harbor, and came in when Nico shouted, and set the tray on the steel table between them. It was empty. Not a crumb on it. Somebody had wiped it.
 
@@ -780,7 +780,7 @@ Nico washed the tray in Lourdes's deep sink, though it was clean, because the wa
 
 The street door at the foot of the old stair opened at one minute to six, and tread one took a weight that was not Elijah's.
 
-Tara was on tread twelve, coming down. She had been in the hall since twenty to, with a headlamp and the drawings, checking the new east doorway where the fire stair would land, and she had the drawings rolled under one arm and her coffee in the other hand. She stopped. Tread two. Tread three, the one with the split. Elijah took the stair two at a time and light on the balls of his feet, and this was one at a time, heavy and even, and careful in a way that meant both hands were full.
+Tara was on tread twelve, coming down. She had been in the hall since twenty to, with a headlamp, checking the new east doorway where the fire stair would land, and she had the drawings rolled under one arm and her coffee in the other hand. She stopped. Tread two. Tread three, the one with the split. Elijah took the stair two at a time and light on the balls of his feet, and this was one at a time, heavy and even, and careful in a way that meant both hands were full.
 
 She knew the nineteen treads by ear, as she knew her truck's engine. One groaned. Three ticked at the split. Seven had been reset in 1962 by somebody who used the wrong nails, and complained about it. Eleven had a wedge under its nosing that had shrunk since Eisenhower, so the board sat a hair proud and rang when it was stepped on, one short high note, like a struck bar. She had meant to fix it in September. She had written it on the list and then crossed it off, because a stair that told you who was on it was a stair worth leaving alone.
 
@@ -814,7 +814,7 @@ He lifted it. Both arms straight up, the tray over his head and flat as a table,
 
 The tread rang. It rang low. She had heard tread eleven perhaps four thousand times, under her, under Elijah, under Olivia going up slowly with the cane, and it had always given the same short high note, and it gave it now an octave down and longer, because it was carrying both of them, and the wedge had nowhere to go.
 
-His sweater was cold on the outside from Main Street. She felt that first, across the front of her vest, the wool still holding the December air from the sidewalk; and then, under the cold, the heat of him, the same heat that had come up through the tape on Saturday into the scar on her thumb. The drawings crushed between them. Her coffee was out to the side at the end of her arm, held off the rail. His breath went over the top of her cap. Somewhere above her head the tray was hot, and something on it had sugar on it, and sugar was coming down, a few grains at a time, onto her shoulder.
+His sweater was cold on the outside. She felt that first, across the front of her vest, the wool still holding the December air from the sidewalk; and then, under the cold, the heat of him, the same heat that had come up through the tape on Saturday into the scar on her thumb. The drawings crushed between them. Her coffee was out to the side at the end of her arm, held off the rail. His breath went over the top of her cap. Somewhere above her head the tray was hot, and something on it had sugar on it, and sugar was coming down, a few grains at a time, onto her shoulder.
 
 Twenty-nine and a half inches. She had the number. The number did not account for anything.
 
@@ -898,7 +898,7 @@ Olivia looked up at her with an expression of enormous interest.
 
 "Even so."
 
-So Tara came down off the landing, leaving Elijah holding the third stringer against the header with his shoulder, and walked Olivia up the old stair, slowly, Olivia's hand on the rail and Tara one tread below her with a hand not quite at her back. Tread one groaned. Three ticked. At eleven Olivia paused for breath, and the tread gave its high note under her, and Tara, a tread behind, heard it go through her like a phone ringing in an empty room.
+So Tara came down off the landing, leaving Elijah holding the third stringer against the header with his shoulder, and walked Olivia up the old stair, slowly, Olivia's hand on the rail and Tara one tread below her with a hand not quite at her back. Tread one groaned. Three ticked. At eleven Olivia paused for breath, and the tread gave its high note under her, and Tara heard it go through her like a phone ringing in an empty room.
 
 "Third from the top," Olivia said, at eighteen, and bent, and peered, and touched the turned baluster with one gloved finger, and then the one beside it, and then the first one again. "Dear. I cannot tell."
 
@@ -1062,7 +1062,7 @@ He should have gone then. He knew it. He stood by the trailer door with his hand
 
 "I'm not going to copy it. I couldn't copy it. I don't own a plane."
 
-She said nothing. She took the clamp off one joint, put a scrap of cardboard under the jaw, and put the clamp back on. He watched her do it. He watched her finish the joint and wipe the bead off with the side of her thumb, the one with the white scar across the pad, and set the board down; and then, without looking at him, she reached up and unpinned the vellum from the wall, and laid it on the desk on the clean side of the lumber, and turned it around so that it faced him, and went back to the next joint.
+She said nothing. She took the clamp off one joint, put a scrap of cardboard under the jaw, and put the clamp back on. He watched her finish the joint and wipe the bead off with the side of her thumb, the one with the white scar across the pad, and set the board down; and then, without looking at him, she reached up and unpinned the vellum from the wall, and laid it on the desk on the clean side of the lumber, and turned it around so that it faced him, and went back to the next joint.
 
 He did not touch it. He bent over it with his hands behind his back, as his father had taught him to look at another man's bread.
 
@@ -1104,7 +1104,7 @@ Tara opened it. On the step stood a girl of about ten in a purple parka zipped t
 
 "Sugar you boil till it sets like glass."
 
-"So it's sugar." She unzipped her parka from her nose down to her chin. "I'm entering. The contest. I'm registering tomorrow at the fair. I already have the form, Aunt Lourdes got it from Mrs. Mitchell, and my mom signed it, and nobody said I can't." She looked at both of them, from one to the other, as if one of them might be about to. "So I'm the field. On Mr. Byrne's board. I'm the field."
+"So it's sugar." She unzipped her parka from her nose down to her chin. "I'm entering. The contest. I'm registering tomorrow at the fair. I already have the form, Aunt Lourdes got it from Mrs. Mitchell, and my mom signed it, and nobody said I can't." She looked from one to the other, as if one of them might be about to. "So I'm the field. On Mr. Byrne's board. I'm the field."
 
 "You're the field," Nico said, delighted.
 
@@ -1112,13 +1112,13 @@ Tara opened it. On the step stood a girl of about ten in a purple parka zipped t
 
 "That's a good price. I'd take that price."
 
-"I'm building the ledge light on its rock, with the waves. The rock is going to be brown sugar. The lantern I was going to do with melted lollipops, the green ones, in the oven, but they came out brown." She opened the notebook. Inside were columns of questions in pencil, numbered, and he saw his own name at the top of one column and Tara's at the top of the other. "So I need your secrets. Both of you. I have questions."
+"I'm building the ledge light on its rock, with the waves. The rock is going to be brown sugar. The lantern I was going to do with melted lollipops, the green ones, in the oven, but they came out brown." She opened the notebook. Inside were columns of questions in pencil, numbered, his own name at the top of one column and Tara's at the top of the other. "So I need your secrets. Both of you. I have questions."
 
 "What kind of questions?" Tara said.
 
 "How do you make it stand up," Izzy read, off the Tara column. "Mine fell over twice at my Vovó's. How do you make it stand up?"
 
-Tara put down the saw. He watched her do something he had not seen her do with anyone yet, not Olivia, not Lachance, not him: she crouched, so that her eyes were level with the girl's, and answered the question as if it had come from a framer on her own crew.
+Tara put down the saw and did something he had not seen her do with anyone yet, not Olivia, not Lachance, not him: she crouched, so that her eyes were level with the girl's, and answered the question as if it had come from a framer on her own crew.
 
 "Base wider than you think," she said. "Everything square. And you let each joint set before you put weight on it. Every time. Even when you're in a hurry."
 
@@ -1300,7 +1300,7 @@ He looked across the vestry and found Tara by the winners' board with Mrs. Gort
 
 "Tara Medeiros," he said.
 
-He did not raise it. Half the room turned anyway, and Josie Rinaldi, Tara saw, did not turn toward Tara at all. Josie looked at her brother, and something in her face made a note. Tara crossed the vestry because there was no way not to.
+He did not raise it. Half the room turned anyway, and Josie Rinaldi did not turn toward Tara at all. Josie looked at her brother, and something in her face made a note. Tara crossed the vestry because there was no way not to.
 
 "This is my sister," Nico said. "Josie. Josie, this is the contractor. She measured me out of my own door."
 
@@ -1584,7 +1584,7 @@ He watched her face. He did not mean to; it was the one thing he could never hel
 
 "It's fine," Tara said.
 
-Humberto picked his spoon back up, and for him the matter was closed. He was a builder; he had heard the answer a builder gives.
+Humberto picked his spoon back up. He was a builder; he had heard the answer a builder gives.
 
 Fátima had not picked anything up. She was standing at the stove with the ladle in her hand, and she was looking at her daughter, and Nico saw that she had seen the same column he had seen, and added it the same way, and come to the same line.
 
@@ -1622,7 +1622,7 @@ She hung up and put the phone back on the wall and came to the table as if nothi
 
 "Fried's not bad," Humberto said, to his soup, and his wife looked at him as if he had sold the truck.
 
-She cut Nico a slice of something dark and dense from a loaf on a board, dark as a church pew, heavy as one, smelling of molasses and some liqueur he could not name. "Bolo de frutas. It's not ready. Two more weeks. Tell me."
+She cut Nico a slice of something from a loaf on a board, dark as a church pew, heavy as one, smelling of molasses and some liqueur he could not name. "Bolo de frutas. It's not ready. Two more weeks. Tell me."
 
 He ate it. It was two weeks short of ready, and it was going to be extraordinary.
 
@@ -1668,7 +1668,7 @@ He kept his eyes on the road. He had learned that much in a week.
 
 "The Sons. When I was small. He named the firm before I was born, and every truck he's had since says it, and I didn't know what sons were, and I thought it was a word for whoever got in the truck with him." She was looking straight ahead through the windshield. "I got in the truck every morning for fifteen years."
 
-He waited. That was all of it. She did not add anything, and he understood that she had said one true thing, exactly one, and measured it before she said it, and was not going to cut a second.
+He waited. That was all of it. He understood that she had said one true thing, exactly one, and measured it before she said it, and was not going to cut a second.
 
 He drove her back around the top of the Bay and down the Post Road into Caswell Harbor in the last of the light, and stopped at the curb by her trailer. She opened her door. He had Fátima's bag on his lap, which had been meant for him, and held it out to her.
 
@@ -1732,7 +1732,7 @@ Tara did the arithmetic standing on the sidewalk. A paused job was a week. A wee
 
 "An hour. If Walt doesn't get going on parking."
 
-Nico turned from the agenda and looked at her. He did not smile. He looked at her the way he had looked at her mother's wheat, as if it were going to need doing carefully.
+Nico turned from the agenda. He did not smile. He looked at her the way he had looked at her mother's wheat, as if it were going to need doing carefully.
 
 "So we're friends," he said.
 
@@ -1802,7 +1802,7 @@ Bev wrote. Harold nodded. He remembered. Nico opened his mouth and, for once, sh
 
 "Ray said war, dear. I wrote it down." Olivia turned to Brian, who was sitting at the end of the public row with his folder on his knees. "Mr. Doyle. Section nine."
 
-"Section nine," Brian said, unhappily. "Just to play devil's advocate here. It does say obstruct."
+"Section nine," Brian said. "Just to play devil's advocate here. It does say obstruct."
 
 "It does." Olivia folded her hands on the table. "I shall be plain, because I am eighty-five and I have climbed that stair twice today. I should not like to void a lease in December. But if the person building my hall and the person renting my ground floor cannot work in the same building, I shall void it, dear, and the committee will stop the work until the matter is settled. I will not open on Christmas Eve over a war." She looked at Tara, and then at Nico. "Well?"
 
@@ -1854,7 +1854,7 @@ She had leaned on a lot of things. Ladders, door frames, the side of a truck at 
 
 "She says colleagues because she's from Warren. In Warren that's friends."
 
-Joan laughed out loud. Ray turned his hearing aid down, satisfied. Olivia looked at the two of them for a long moment, over the gavel, and something in her face let go.
+Joan laughed out loud. Ray turned his hearing aid down, satisfied. Olivia looked at the two of them over the gavel, and something in her face let go.
 
 "Well," Olivia said.
 
@@ -2026,7 +2026,7 @@ Lourdes did not look up from the register. She had the day's slips in three pile
 
 "The first day she ever came in. Before she stopped eating."
 
-That made her look up. She took her glasses off and looked at him over the counter for a long time, as she had looked at his walls on Friday to see if they were straight.
+That made her look up. She took her glasses off and looked at him over the counter as she had looked at his walls on Friday to see if they were straight.
 
 "April," Lourdes said. "The twelfth. A Monday. She came over from the walkthrough with the drawings under her arm and sat right there, third stool, and ordered before I could tell her, which nobody does. Tuna melt on rye, extra pickle. Coffee milk. Ate the whole thing with the drawings open and asked for the check before I put it down." She put the glasses back on. "Then she got the job. Then August, black coffee. Then nothing."
 
@@ -2054,7 +2054,7 @@ Lourdes's pencil stopped. Then it went on.
 
 "Extra on the side." She came round and lit the flat-top for him and went back to the slips. "Coffee milk's mine. You don't touch my syrup."
 
-He buttered the rye. He watched the cheese. When he reached for the spatula to press it, she said "No," from the register, without looking, and he did not press it. It came off golden on both sides with the cheese just going over the edge, and she came and looked at it and said nothing at all, which from Lourdes Almeida was a medal.
+He buttered the rye. He watched the cheese. When he reached for the spatula to press it, she said, "No," from the register, without looking, and he did not press it. It came off golden on both sides with the cheese just going over the edge, and she came and looked at it and said nothing at all, which from Lourdes Almeida was a medal.
 
 "They fit?" Lourdes said. "Your ovens. With the door off."
 
@@ -2124,7 +2124,7 @@ He was on the sidewalk. He had been on the sidewalk, more or less, since a quart
 
 "Enough," Tara said.
 
-That was all she said about it. She did not say half an inch. He did not say rye. Main Street was dark and cold and empty between them, and the trailer window was lit behind her, and on the corner of the desk, he could see from here, there was nothing on the corner anymore.
+That was all she said about it. She did not say half an inch. He did not say rye. Main Street was dark and cold and empty between them, and the trailer window was lit behind her, and on the clear corner of the desk, he could see from here, there was nothing anymore.
 
 "Russ says the crown's wrapped in a towel," he said.
 
@@ -2300,7 +2300,7 @@ Nico did not answer right away. She watched him reach for something light to say
 
 "I've noticed. Show me what you did."
 
-She showed him. He picked up a piece of the fallen wall and held it to the window and bent it, very slightly, between his thumbs, and it gave.
+She showed him. He picked up a piece of the fallen wall and held it to the window and bent it, slightly, between his thumbs, and it gave.
 
 "When did you bake these?"
 
@@ -2382,7 +2382,7 @@ He piped a line across the board from one end to the other without stopping, in 
 
 Tara took her level off her belt and laid it along the first line. The line ran under the edge from one end to the other, and there was no light under it anywhere.
 
-She put the level back on her belt and did not say anything. He was not looking at her. He was looking at the line, as a man looks at a thing he has done ten thousand times and will do again tomorrow, and she understood that he did not know it was remarkable. She stood beside him with her level on her belt and watched his hands do it a third time.
+She put the level back on her belt and did not say anything. He was not looking at her. He was looking at the line, as a man looks at a thing he has done ten thousand times and will do again tomorrow, and she understood that he did not know it was remarkable. She stood beside him and watched his hands do it a third time.
 
 "Chef," said Izzy, through the pass. "The floors. Every third or every fourth?"
 
@@ -2488,13 +2488,13 @@ He stood in the dark with an oven mitt on one hand. Inside the oven his walls, e
 
 "Well," he said, to nobody. "Okay."
 
-He found the flashlight where Lourdes kept it, in the drawer under the register with the rubber bands, because he had watched her put it there on the first night and he noticed where people kept things. He opened the oven. Eight panels, pale, soft at the centers, already beginning to slump at the corners as the heat went out of them. Tomorrow's walls. He looked at them for one second longer than they deserved and shut the door on them.
+He found the flashlight where Lourdes kept it, in the drawer under the register with the rubber bands, because he had watched her put it there on the first night and he noticed where people kept things. He opened the oven. Eight panels, pale, soft at the centers, already slumping at the corners as the heat went out of them. Tomorrow's walls. He looked at them for one second longer than they deserved and shut the door on them.
 
 Across the street, in the hall's tall front window, a small white light moved. Somebody with a headlamp, upstairs, alone in the dark. Who else?
 
 He knew the old stair by now in his legs, if not by ear, the steepness of it, nineteen in a space built for about fourteen, and he went up by flashlight with one hand on the rail. Somewhere in the middle a tread rang under him, one short high note, and he knew which one that was.
 
-The hall was colder already. The heaters by the stage stairs had stopped ticking, and he could feel the room giving its warmth back to the windows. In the middle of the floor, on the plywood on its sawhorses, stood her tower, the five courses that had survived Wednesday with a floor set in them and a ring of new icing round the top, and Tara was standing over it with the headlamp on and her bare hands on either side of the top course, holding it.
+The hall was colder already. The heaters by the stage stairs had stopped ticking, and the room was giving its warmth back to the windows. In the middle of the floor, on the plywood on its sawhorses, stood her tower, the five courses that had survived Wednesday with a floor set in them and a ring of new icing round the top, and Tara was standing over it with the headlamp on and her bare hands on either side of the top course, holding it.
 
 "It won't set," she said, without turning round.
 
@@ -2522,7 +2522,7 @@ He lowered the flashlight. "My walls died in the oven."
 
 "Until it doesn't," said Tara.
 
-He looked at her hands. They were already white at the knuckles, and the hall was getting colder by the minute, and she was going to stand there until morning holding a sugar tower in the dark because nobody had told her a better way. He put the flashlight down on the plywood, pointed at the ceiling.
+Her hands were already white at the knuckles, and the hall was getting colder by the minute, and she was going to stand there until morning holding a sugar tower in the dark because nobody had told her a better way. He put the flashlight down on the plywood, pointed at the ceiling.
 
 "Move over," he said, and put his hands on the course beside hers.
 
@@ -2686,7 +2686,7 @@ He had a joke ready. It was a good one. He let it go.
 
 "I had eleven," he said.
 
-She turned her head, and he kept his on the window. "In Providence. My own place. Downtown, Westminster Street. Forno. A bakery and a restaurant, both, because I didn't know how to do one thing at a time." He was looking at the window too. "Eighteen months. It was good for about six of them. Then it wasn't, and I kept it open a year past when I should have, because I'd promised everybody."
+She turned her head, and he kept his on the window. "In Providence. My own place. Downtown, Westminster Street. Forno. A bakery and a restaurant, both, because I didn't know how to do one thing at a time. Eighteen months. It was good for about six of them. Then it wasn't, and I kept it open a year past when I should have, because I'd promised everybody."
 
 "Promised what?"
 
@@ -2858,7 +2858,7 @@ He was watching her face. She could feel him doing it.
 
 "That's not a number either."
 
-"It's lumber and three days and an engineer's letter." She capped the pen. She had already done the number. She had done it under the joists with plaster in her collar while Lachance wrote, and again on the way across the side lot, and it came out the same both times, and it came out of January. "I'll handle it."
+"It's lumber and three days and an engineer's letter." She capped the pen. She had already done the number, under the joists with plaster in her collar while Lachance wrote, and again on the way across the side lot, and it came out the same both times, and it came out of January. "I'll handle it."
 
 "You'll handle it."
 
@@ -2878,7 +2878,7 @@ Nico read it aloud. "Both or neither."
 
 "In mine it's a wedding cake," said Nico. "You don't get to serve the top tier on its own."
 
-Tara looked at him for a second.
+Tara looked at him.
 
 "Tell me what to carry," he said.
 
@@ -2922,13 +2922,13 @@ Harold was looking at the joists with his ledger under his arm. "Ms. Medeiros. 
 
 "Nothing," said Tara. "They're in hand."
 
-Harold looked at her for a long moment and wrote something down. Nico, in the doorway, said nothing at all.
+Harold looked at her, and wrote something down. Nico, in the doorway, said nothing at all.
 
 "And the fire marshal, dear?" Olivia said. "Bev tells me he came."
 
 "He came. He won't sign the hall until he's seen the bakery's hood tested under a full bake. Ovens on."
 
-"So the bakery has to bake," said Walt slowly, "before we can open the hall."
+"So the bakery has to bake," said Walt, "before we can open the hall."
 
 "Yes."
 
@@ -3158,7 +3158,7 @@ Walt was counting the Grange's courses aloud with one finger. "Six. Seven. Eight
 
 "So whose is it?" said Manny. "I'm asking. For the grade."
 
-He felt the town lean in for the war. He could have said ours. He put his hands in his pockets and tipped his head at her tower like a man pricing a used car.
+The town leaned in for the war. He could have said ours. He put his hands in his pockets and tipped his head at her tower like a man pricing a used car.
 
 "Eight courses of hers," he said, "and a ninth of mine you can't see. That's how good I am."
 
@@ -3294,7 +3294,7 @@ At the bottom of the steps Joan turned round to Bev with her knitting. "Bev. Wha
 
 Walt opened his mouth. Harold stepped on his foot, gently, as a treasurer would, and Walt closed it.
 
-At a quarter to six the cast of The Keeper's Light came down Ferry Lane from the barn in a loose crowd, with Wayne Evans at the back of it, and the woman at the front, in a long black coat with a pencil through her hair, stopped at the foot of the church steps and counted them with a rolled script. "That's Rachel," Joan told Nico, without being asked. "She runs the play. Wayne runs the barn. Don't ask either one of them who's in charge." Rachel's count came out one short. She found Izzy on the bottom step and pointed the script at her once, as a director points at an actor who is late, and Izzy, who was not here, sat up straighter anyway. Pip had two lines.
+At a quarter to six the cast of The Keeper's Light came down Ferry Lane from the barn in a loose crowd, with Wayne Evans at the back of it, and the woman at the front, in a long black coat with a pencil through her hair, stopped at the foot of the church steps and counted them with a rolled script. "That's Rachel," Joan told Nico, without being asked. "She runs the play. Wayne runs the barn. Don't ask either one of them who's in charge." Rachel's count came out one short. She found Izzy on the bottom step and pointed the script at her once, as a director points at an actor who is late, and Izzy, who was not here, sat up straighter anyway. Izzy was Pip. Pip had two lines.
 
 At a minute to six Ed Whitaker climbed onto the back of the fire truck and put up both hands. "Where's my loudest kid? Who's leading the count?"
 
@@ -3376,7 +3376,7 @@ He read it. She said yes. She read him the number off the card and the date and 
 
 "He doesn't need to see it," said Gil. "He says it's you."
 
-She put the card back in her wallet and the wallet back in her vest and stood there. It came out of January. She had known that since Friday. Elijah's January was in the committee's final payment, and so was hers, and now the joists were in her January too, and the arithmetic said there would be a little of January left. She did the number one more time and it did not get bigger.
+She put the card back in her wallet and the wallet back in her vest and stood there. It came out of January. Elijah's January was in the committee's final payment, and so was hers, and now the joists were in her January too, and the arithmetic said there would be a little of January left. She did the number one more time and it did not get bigger.
 
 Her phone buzzed in her hand before she had put it away. "Filha," said her mother. "The wheat is up."
 
@@ -3540,7 +3540,7 @@ Eight days. She had already done it.
 
 He laughed then, properly, the one people heard across Main Street, and it went out over the water and nothing sent it back.
 
-Then it was hers. She knew it was. It sat in her chest as the joists had sat over the old kitchen for eighty years, under plaster, holding.
+Then it was hers. It sat in her chest as the joists had sat over the old kitchen for eighty years, under plaster, holding.
 
 "When I was thirty-five," she said, "I said it out loud. At the kitchen table in Warren. About the truck." She looked at the light, not at him. "I'd run his jobs for fifteen years. I'd bid them and built them and fixed what his subs did to them. And I said, Pai, it says Sons. And he looked at me like I'd told him the sky had a name on it. He said, 'It's just a name, filha.' He meant it kindly. He always means it kindly."
 
@@ -3554,7 +3554,7 @@ Then it was hers. She knew it was. It sat in her chest as the joists had sat ove
 
 She stopped. The next sentence had a number in it. She could feel its weight in her mouth, and the card in her wallet, and the two tickets, and the January that was left.
 
-He did not ask. He sat at his end of the bench with his cold coffee and let her stop exactly where she stopped, as she had let him stop on Thursday in the dark, and she understood that he knew what he was doing and was doing it on purpose.
+He did not ask. He sat at his end of the bench with his cold coffee and let her stop exactly where she stopped, as she had let him stop on Thursday in the dark, and she knew he was doing it on purpose.
 
 "I want one thing with my name on it," Tara said, "that nobody gave me."
 
@@ -3634,7 +3634,7 @@ He closed his eyes. "Then I owe you a better reason than I'm going to give you."
 
 He looked in the mirror at the trailer. "Something like that," he said.
 
-She was polite about it. She was disappointed and brisk and polite, and she said she hoped everything was all right, and he said it would be, and when she had hung up he sat in the van and looked at three hundred flat boxes with little windows in the lids. He had promised. He had promised a woman in Providence three hundred pieces, in writing, and he had just taken it back by phone before six in the morning, and he knew exactly what that was, because he had done it eleven times in one afternoon. He waited for it to feel the same, the walk-in with the light off and Dee putting her coat on, and it did not, and what was a man supposed to make of that at a quarter to six in the morning with a ceiling waiting on him? He did not have time to find out. He got out of the van.
+She was disappointed and brisk and polite, and she said she hoped everything was all right, and he said it would be, and when she had hung up he sat in the van and looked at three hundred flat boxes with little windows in the lids. He had promised. He had promised a woman in Providence three hundred pieces, in writing, and he had just taken it back by phone before six in the morning, and he knew exactly what that was, because he had done it eleven times in one afternoon. He waited for it to feel the same, the walk-in with the light off and Dee putting her coat on, and it did not, and what was a man supposed to make of that at a quarter to six in the morning with a ceiling waiting on him? He did not have time to find out. He got out of the van.
 
 "Twenty-four hours," he said. "Straight. Starting now. The room's yours."
 
@@ -3650,7 +3650,7 @@ Tara was on the trailer step with her coffee. "What about the boxes?"
 
 "Mine did." He held the van door. "Go close your ceiling, Tara. You've got Elijah coming up the street, and Russ is parking on the sidewalk again."
 
-She looked at him for a long moment. She was reading something, and he did not know how much of it she could read in the dark at a quarter to six, and did not want to find out. Then the trailer clock said six, or her watch did, and she went.
+She looked at him. She was reading something, and he did not know how much of it she could read in the dark at a quarter to six, and did not want to find out. Then the trailer clock said six, or her watch did, and she went.
 
 He was on the sidewalk side of the sill all day. He had been there before, for a week in November, with trays, and he had hated it. Today it was the only place he wanted to be. Russ had come without breakfast and Paulie without gloves, so the first thing he did was walk a buttered roll across Main Street and lend Paulie his own gloves, which were too big and smelled of the van, and Paulie put them on and went up the scaffold in them. Inside the supper room the work lights burned and the crew went up and down the scaffolds in a pattern he could not follow and she could, and the ceiling came on in sheets, gray board hung on its channel under the new joists, screwed off in rows so straight he would have piped them, a second layer over the first with every joint staggered. She called every sheet. She stood in the middle of the room with her head back and her tape in her hand and told her crew where the next one went, and it went there.
 
@@ -3704,7 +3704,7 @@ At half past eleven his phone buzzed against the van's dashboard. "The law firm 
 
 "You," said Angela, and hung up.
 
-He sat in the van for a minute with the phone on his knee. Through the windshield, through the supper-room window, Tara was up a ladder with a screw gun, setting the last screw in a row he could see from the street. She came down. She looked at the sheet from the floor for a long time. Then she went up again and set one more.
+He sat in the van for a minute with the phone on his knee. Through the windshield, through the supper-room window, Tara was up a ladder with a screw gun, setting the last screw in a row he could see from the street. She came down. She looked at the sheet from the floor. Then she went up again and set one more.
 
 The dough was made. What was he supposed to do with three hundred shells and no party? He did not know how to waste dough.
 
@@ -3732,7 +3732,7 @@ At nine he went back across with coffee. At midnight he went across with egg san
 
 "She'd risk it," said Paulie, and fell asleep with half a sandwich in his hand, and Russ took it out of his fingers and ate it.
 
-She did not eat hers. She held it. He watched her hold it for ten minutes while she looked up at the ceiling, at the joints, at the gray collar of firestop round his duct where it went up through the new board, and then she ate it in four bites without looking at it.
+She did not eat hers. She held it for ten minutes while she looked up at the ceiling, at the joints, at the gray collar of firestop round his duct where it went up through the new board, and then she ate it in four bites without looking at it.
 
 "You ate," he said.
 
@@ -3750,7 +3750,7 @@ At three in the morning she let him in. "Nobody" had been the rule, and nobody h
 
 "Hold it here. Flat to the frame. Tell me when it's centered."
 
-The window was in the old kitchen ceiling, under the board pencilled 1946, exactly where Olivia had wanted it: a small square of listed fire glass, the size of a hardcover book, in a steel frame, set into the new rated board so that from the floor with a flashlight you could look up through it into the dark and see the old pencil and the black wood and the new yellow sisters beside it. She had built the frame. When? Sometime between six in the morning and now, in a day with no room in it.
+The window was in the old kitchen ceiling, under the board pencilled 1946, where Olivia had wanted it: a small square of listed fire glass, the size of a hardcover book, in a steel frame, set into the new rated board so that from the floor with a flashlight you could look up through it into the dark and see the old pencil and the black wood and the new yellow sisters beside it. She had built the frame. When? Sometime between six in the morning and now, in a day with no room in it.
 
 He went up the stepladder and put the level against the frame and held it.
 
@@ -3812,7 +3812,7 @@ Elijah had gone home at twenty past. She had sent him. Russ had driven Paulie, w
 
 "Nobody tells anybody," said Tara. "That's what unofficially means."
 
-The burners came up with a low sound under the floor of the oven. Then the convection oven. Then the fans in the hood, all at once, a steady pull she could feel on the back of her neck. The vendor's nozzles hung over the line, and the fusible links, and the pull station by the back door with its pin in. She looked at each of them. They did nothing. That was their job until it wasn't. She put her hand on the manual gas valve behind the line, where she could reach it from the bench in one step, and left it there a second; that was the one part of the system she trusted yet.
+The burners came up with a low sound under the floor of the oven. Then the convection oven. Then the fans in the hood, all at once, a steady pull on the back of her neck. The vendor's nozzles hung over the line, and the fusible links, and the pull station by the back door with its pin in. She looked at each of them. They did nothing. That was their job until it wasn't. She put her hand on the manual gas valve behind the line, where she could reach it from the bench in one step, and left it there a second; that was the one part of the system she trusted yet.
 
 "What happens if it trips?" he said.
 
@@ -3956,7 +3956,7 @@ He had flour to the elbows and plaster dust on his shoulders from midnight, both
 
 She did not want to go home. She wanted this, the oven and the ceiling holding and him, and she was tired of measuring it first. She kissed him.
 
-Nobody was watching and nobody had written it in any minutes and nobody was going to set off an alarm. She took the front of his white jacket in one hand, at the collar, where the flour stopped, and kissed him with nothing in the way. He made a sound she felt more than heard. Then his hands came up into her hair under the edge of her cap, both of them, warm and floury, and held her there, and he kissed her back, slowly, and then not slowly at all.
+Nobody was watching and nobody had written it in any minutes and nobody was going to set off an alarm. She took the front of his white jacket in one hand, at the collar, where the flour stopped, and kissed him with nothing in the way. He made a sound against her mouth. Then his hands came up into her hair under the edge of her cap, both of them, warm and floury, and held her there, and he kissed her back, slowly, and then not slowly at all.
 
 The steel bench met the small of her back. She had not noticed him move her, or herself move; she noticed the cold of it through her vest and the heat of the oven along her other side and him in between, the whole long weight of him, careful and not careful. He tasted of sugar and Lourdes's coffee. His thumb moved along her jaw to the corner of her mouth and stayed there. She held on to his jacket with both hands. Over them the fans pulled and the hood took the heat straight up through her ceiling, and she let it all go on, the kiss and the oven and the building, longer than she would have let any job run without checking it, until the oven timer went off behind him, loud and flat, a sound with no opinion about anything.
 
@@ -3998,7 +3998,7 @@ She straightened her cap, which had flour on the brim now, and zipped her vest t
 
 At six a car pulled into the space in front of Almeida's. Lourdes got out in her long coat with her keys in one hand and her bag on her arm. She came round the front of the car to her own door, and stopped on the sidewalk, and looked across the street at the one lit window on Main Street, at the case with two rows of shells in it, at the two of them standing behind it at the steel bench a good deal closer than two people needed to stand to look at a tray.
 
-Tara did not move away. Nico did not move away. Lourdes looked at them for a long moment through the glass with her keys in her hand.
+Tara did not move away. Nico did not move away. Lourdes looked at them for a long moment through the glass.
 
 Then she turned round, and fitted her key into her own sticking door, and leaned on it until it gave, and went in without a word, and the lights of Almeida's came on across the street, the counter first, and then the booths, and then the pie case, until there were two lit windows on Main Street facing each other.
 
@@ -4200,7 +4200,7 @@ It was Angela's line, on the laptop, in Angela's neat font. REPAYMENT 1 (J., A.)
 
 Tara did not read it aloud. She did not have to. She looked at it, and then at the calendar on the refrigerator with the red circle and the cannoli on it, and then at him. It was not the look from the stair or the bench. It was the look she gave a joist in a ceiling when the plaster came down and nobody had told her.
 
-"He's charging what the ovens cost his grandfather," she said to Josie, quietly. "He's underpriced. That's the truth. You asked."
+"He's charging what the ovens cost his grandfather," she said to Josie. "He's underpriced. That's the truth. You asked."
 
 The table was quiet. The radiator knocked. On the silent television somebody scored something, and nobody looked.
 
@@ -4382,7 +4382,7 @@ She heard it come out. It came out in the voice she used for Brian, for her fath
 
 "It's fine," she said again. "It isn't."
 
-The heater ticked on. He set his coffee down on the floor between his boots, very carefully, as if it were the last tray in the building.
+The heater ticked on. He set his coffee down on the floor between his boots, as if it were the last tray in the building.
 
 "Why eleven?" he said.
 
@@ -4432,7 +4432,7 @@ He read it. "Lourdes charges less than that for a slice of pie."
 
 "It makes the thirty-first closer."
 
-He took the binder back and looked at her handwriting on his page for a long moment, the first thing anyone had written in it but him and Angela. Then he closed it and kept his hand on it.
+He took the binder back and looked at her handwriting on his page, the first thing anyone had written in it but him and Angela. Then he closed it and kept his hand on it.
 
 "Both, or neither," he said.
 
@@ -4452,7 +4452,7 @@ The front booth turned round.
 
 "When?" said Nico.
 
-"This morning. On the sidewalk. Elijah asked if it was done and you said, 'We finished the stair.'" Izzy turned a page. "You don't work on the stair. You work on shells. Tara works on the stair. So it's not 'we.' Unless it's 'we.'" She looked up at the two of them with her pencil in the air and her whole face lit with discovery. "Are you a we? Is that a secret? Can I..."
+"This morning. On the sidewalk. Elijah asked if it was done and you said, 'We finished the stair.'" Izzy turned a page. "You don't work on the stair. You work on shells. Tara works on the stair. So it's not 'we.' Unless it's 'we.'" She looked up at the two of them with her pencil in the air and her whole face lit. "Are you a we? Is that a secret? Can I..."
 
 A coffee milk landed on the table in front of her. Lourdes had come round the counter without anybody seeing her move, which at sixty-four was a thing she could still do when it mattered.
 
@@ -4520,7 +4520,7 @@ They went down the rest without talking. At the bottom her phone buzzed in her v
 
 "Something he'd have set it on."
 
-He stood beside her at the foot of it, and she could hear the bakery's fans still ticking over through the propped back door, and the cove somewhere east of them, and nothing at all from the stair, which had said what it had to say. Her column was on his knee in her trailer, and his binder had her handwriting in it. She stood in the cold and let that be the number for a while.
+He stood beside her at the foot of it, and she could hear the bakery's fans still ticking over through the propped back door, and the cove somewhere east of them, and nothing at all from the stair, which had said what it had to say. Her column had been on his knee in her trailer, and his binder had her handwriting in it. She stood in the cold and let that be the number for a while.
 
 # Chapter Twenty
 
@@ -4590,7 +4590,7 @@ Tara came down off the trailer roof by the ladder, quickly, with a gutter screw 
 
 She showed him. Nico followed because nobody had told him not to, and because he wanted, more than he had wanted anything since Lachance's date went up on the trailer wall, to watch this man look at this stair.
 
-Humberto went up it slowly with one hand on the rail. At the landing it knocked under him, the low note from yesterday, and he stopped on the landing exactly as she had, and stood there, and shifted his weight from one heel to the other until it knocked again.
+Humberto went up it slowly with one hand on the rail. At the landing it knocked under him, the low note from yesterday, and he stopped exactly as she had, and stood there, and shifted his weight from one heel to the other until it knocked again.
 
 "What you set the post on?"
 
@@ -4600,7 +4600,7 @@ Humberto went up it slowly with one hand on the rail. At the landing it knocked 
 
 "Four foot two. The ground was soft on the east side."
 
-"It's always soft on the east side," said Humberto. He came down. At the bottom he put his palm flat on the stringer, low, where it met the pad, and held it there a long time, and Nico realized he had seen that hand on a wall before, and it had been hers.
+"It's always soft on the east side," said Humberto. He came down. At the bottom he put his palm flat on the stringer, low, where it met the pad, and held it there a long time, and Nico had seen that hand on a wall before, and it had been hers.
 
 "That's good work," Humberto said.
 
@@ -4628,7 +4628,7 @@ Humberto took out his reading glasses. He went along the window pane by pane wit
 
 "That's original."
 
-Humberto put his glasses away without another word, which Nico understood was a man being told he was wrong by his daughter, and liking it. Then he went down to the bakery and looked up at the rated ceiling from below, at the joints and the gray collar at the duct, and said nothing for so long that Nico started counting. "Twenty-two hours," Nico said, into the silence. "She closed it in twenty-two hours. Nobody in the room. I watched from the sidewalk."
+Humberto put his glasses away without another word, which Nico understood was a man being told he was wrong by his daughter, and liking it. Then he went down to the bakery and looked up at the rated ceiling from below, at the joints and the gray collar at the duct, and said nothing for so long that Nico started counting. "Twenty-two hours," Nico said. "She closed it in twenty-two hours. Nobody in the room. I watched from the sidewalk."
 
 Humberto looked at him. Then at the deck oven, on its sleepers.
 
@@ -4636,7 +4636,7 @@ Humberto looked at him. Then at the deck oven, on its sleepers.
 
 "You remembered."
 
-"It's a number." Humberto went through to the old kitchen and stood at the soapstone sink, and Tara turned on the flashlight on her phone without being asked, and pointed it up through the small square of glass at the 1946 board, and her father looked at it for a long time.
+"It's a number." Humberto went through to the old kitchen and stood at the soapstone sink, and Tara turned on the flashlight on her phone without being asked, and pointed it up through the small square of glass at the 1946 board, and her father looked at it.
 
 "Who made the frame?"
 
@@ -4676,7 +4676,7 @@ Humberto folded his glasses and put them away. "Monday I send Rui and the Sousa 
 
 "In your truck," said Tara.
 
-It was very quiet in the side lot. Fátima had gone round the trailer to look at something, or to not be in it. Across Main Street the front booth had given up all pretense and was standing at the window of Almeida's in a row. Nico stood at the foot of the trailer step with his hands empty and wished, with his whole heart, that he were a man who could leave a scene.
+It was quiet in the side lot. Fátima had gone round the trailer to look at something, or to not be in it. Across Main Street the front booth had given up all pretense and was standing at the window of Almeida's in a row. Nico stood at the foot of the trailer step with his hands empty and wished, with his whole heart, that he were a man who could leave a scene.
 
 Humberto looked at his truck at the curb. He looked at it as he had looked at his soup on the fifth, before the question about money.
 
@@ -4698,7 +4698,7 @@ Humberto stood on her trailer step for a long moment. He was a proud man, and a 
 
 Nico took the coffee into the trailer because somebody had to do something with his hands, and Fátima was already in there. She had come round the back and in the door while they were on the step, and she was standing at the shelf under the window, the one that faced his bakery's back door, with her canvas bag folded flat under her arm. On the shelf, beside Tara's coffee can of the door's old cut nails and just above the desk corner where the small green pane of isomalt he had given her on the third still stood, there was a clay pot.
 
-The wheat in it stood a hand high. Green, thick, close as a brush, in rows. Every grain had been set in rows. He had watched Tara sow a pot in rows in forty seconds on the fifth while her mother said nothing, and this was not that pot, which was in Warren beside the manger. This was a second one, sown the same way, the same Sunday, by somebody who had watched her daughter's hands and copied them after the van pulled away.
+The wheat in it stood a hand high. Green, thick, close as a brush. Every grain had been set in rows. He had watched Tara sow a pot in rows in forty seconds on the fifth while her mother said nothing, and this was not that pot, which was in Warren beside the manger. This was a second one, sown the same way, the same Sunday, by somebody who had watched her daughter's hands and copied them after the van pulled away.
 
 Fátima turned the pot a quarter turn toward the light. She looked at him over it, and that was the whole of it. Then she went past him and out the door and down the step, and he heard her voice in the side lot a moment later, in Portuguese, saying something to her husband about the gutter.
 
@@ -4804,7 +4804,7 @@ Nico was setting a shell on a napkin for Joan. He finished setting it.
 
 "I used to come in Saturdays," the man said. "The focaccia. With the rosemary and the salt, the big squares. My wife still talks about that focaccia. I'm on my way to a job in Westerly, I stop here every year, I never saw you." He was pleased and friendly, as if he had found something he'd lost. "What happened to that place?"
 
-Nico turned round with the empty tray. His face was already doing it, the thing it did for Olivia and the booth and every customer since November. She watched it start. The corners went up and his mouth opened on the first word of whatever he said to people about Westminster Street, something he had said a hundred times and could say in his sleep.
+Nico turned round with the empty tray. His face was already doing it, the thing it did for Olivia and the booth and every customer since November. She watched it start. The corners went up and his mouth opened on the first word of whatever he said to people about Westminster Street, something he had said a hundred times.
 
 "What happened was," he said.
 
@@ -4878,7 +4878,7 @@ Floor, coat two. Eleven, the supper-room door, STORED, TRAILER. REINSTALL. Forty
 
 "No."
 
-Elijah looked at her, and at the open door with the cinder block, and across the lot at the bakery, where Nico had been giving things away all afternoon. He had sent the booth a second tray at eleven. He had sent Lourdes a box of mostaccioli she had not asked for. At one he had given Paulie's wife the focaccia recipe, the whole of it, on a sheet of order paper, his grandfather's, and Paulie had brought it to the trailer to show her as though it were a winning ticket.
+Elijah looked at her, and at the open door with the cinder block, and across the lot at the bakery, where Nico had been giving things away all day. He had sent the booth a second tray at eleven. He had sent Lourdes a box of mostaccioli she had not asked for. At one he had given Paulie's wife the focaccia recipe, the whole of it, on a sheet of order paper, his grandfather's, and Paulie had brought it to the trailer to show her as though it were a winning ticket.
 
 "He's never done that," Elijah said. "The recipe. He told Paulie his grandfather would haunt him."
 
@@ -4988,7 +4988,7 @@ Josie called at 4:15 while he had his arms in Friday.
 
 Josie was quiet, which on Josie cost a great deal. "The apron's on the hook," she said. "I didn't move it. Call me at eleven." She hung up first.
 
-By nine it was all in the walk-in, every sheet and log and tray of Christmas Eve, labeled in his pencil, stacked on the shelves he had built in October. At six he had lit the deck oven and the convection oven for today, and at half past nine the product went in, three hundred practice shells and two trays of mostaccioli and a dozen loaves, a full working bake, exactly as the marshal had asked. The case was lit. The hood was pulling. The molasses was going up through the floor into a hall where, right now, a man with a clipboard was deciding whether anybody could stand in it.
+By nine it was all in the walk-in, every sheet and log and tray of Christmas Eve, labeled in his pencil, stacked on the shelves he had built in October. At six he had lit the deck oven and the convection oven for today, and at half past nine the product went in, three hundred practice shells and two trays of mostaccioli and a dozen loaves, a full working bake, as the marshal had asked. The case was lit. The hood was pulling. The molasses was going up through the floor into a hall where, right now, a man with a clipboard was deciding whether anybody could stand in it.
 
 He could hear them up there. He stood at his bench under the ceiling and listened to the building, which was a thing he had learned from her.
 
@@ -5050,7 +5050,7 @@ The second was a tag. Red cardboard on a twist of wire, and on it in the same sq
 
 "Until your vendor recertifies the interlock," Lachance said. "In writing. Then you call me and I come back and I test it again with me standing at the valve."
 
-Nico had the vendor's number in his phone from the week he called them every morning. He called it. It rang and rang and went to a recording, a woman's voice, cheerful, prerecorded in November.
+Nico had the vendor's number in his phone from the week he called them every morning. He called it. It rang and rang and went to a recording, a woman's voice, cheerful, recorded in November.
 
 "Thank you for calling. Our office is closed through Monday, December twenty-seventh, for the holiday. Service resumes Tuesday the twenty-eighth. Merry Christmas."
 
@@ -5098,7 +5098,7 @@ She could have said stay. He saw the word arrive and he saw her hold it, the way
 
 "It's fine," Tara said.
 
-It came out flat, and he knew now that she knew exactly what it meant. She said it anyway, and looked at him while she said it, and he understood that it was the truest thing she could give him, and that she was making it easy for him to go.
+It came out flat, and he knew now that she knew what it meant. She said it anyway, and looked at him while she said it, and it was the truest thing she could give him, and she was making it easy for him to go.
 
 "Good," Nico said.
 
@@ -5140,11 +5140,11 @@ At four-thirty the case across the lot stayed dark. She had not gone home to War
 
 At twenty to five a car pulled in across the street. Lourdes got out in her long coat, early, with a sack of flour on her hip for the sweet bread she put on doorsteps every Christmas morning. She came round to her sticking door with her keys, and stopped on the sidewalk, and looked across Main Street at the Grange.
 
-She stood there a long time with the flour on her hip. Tara watched her look at the dark case and the tagged room behind it and the sign over the window, gold on black. Then Lourdes fitted her key to her own door and leaned on it until it gave, and went in, and the lights came on in Almeida's, the counter and then the booths and then the pie case, one lit window facing one dark one.
+She stood there a long time with the flour on her hip and looked at the dark case and the tagged room behind it and the sign over the window, gold on black. Then Lourdes fitted her key to her own door and leaned on it until it gave, and went in, and the lights came on in Almeida's, the counter and then the booths and then the pie case, one lit window facing one dark one.
 
 At ten past five there was a knock on the trailer step. When Tara opened the door there was nobody on it, and a black coffee in a paper cup on the top tread, steaming, and across the street Lourdes's back going in through her door.
 
-At seven she went across for her coffee. The back of the specials board was clean. Tara saw it from the third stool. The front still said KALE SOUP and TUNA MELT and PIE. The back, where for four weeks Curtis had chalked the town's opinion of her in downhill capitals, had been wiped with a wet rag, corner to corner, so carefully that there was not one ghost of a number left on it. Even the contest odds in the corner were gone.
+At seven she went across to the third stool for her coffee. The back of the specials board was clean. The front still said KALE SOUP and TUNA MELT and PIE. The back, where for four weeks Curtis had chalked the town's opinion of her in downhill capitals, had been wiped with a wet rag, corner to corner, so carefully that there was not one ghost of a number left on it. Even the contest odds in the corner were gone.
 
 Curtis was on his stool with his corn muffin. The chalk was still in his shirt pocket.
 
@@ -5180,13 +5180,13 @@ She looked at it, and it was a check.
 
 "Thank you, dear. For the shells. And for the hall's first Christmas in forty years." Olivia did up her handbag. "I dated it the twenty-fourth."
 
-Harold looked at the floor. Tara looked at Olivia, who looked back at her, eighty-five years old in her good coat in a construction trailer, and did not explain anything at all.
+Harold looked at the floor. Tara looked at Olivia, who looked back at her, eighty-five years old in her good coat in a construction trailer, and did not explain anything.
 
 "You date them early," Tara said.
 
 "I always have, dear. It saves time." Olivia stood. "The bank is open till three."
 
-She was back from the bank at one, with the deposit slip folded in her vest where the lumber tickets had been, when Josie's car pulled into the side lot beside her truck. Josie got out in the black parka with a white box on one arm and a bucket in the other hand, a white plastic bucket with a lid, the kind bakeries got ricotta in. She set the box on the trailer step. Pizza strips, cold, square, sauce and no cheese, in wax paper, exactly as on the fourth.
+She was back from the bank at one, with the deposit slip folded in her vest where the lumber tickets had been, when Josie's car pulled into the side lot beside her truck. Josie got out in the black parka with a white box on one arm and a bucket in the other hand, a white plastic bucket with a lid, the kind bakeries got ricotta in. She set the box on the trailer step. Pizza strips, cold, square, sauce and no cheese, in wax paper, as on the fourth.
 
 "It's not Saturday," said Tara.
 
@@ -5200,9 +5200,9 @@ She was back from the bank at one, with the deposit slip folded in her vest wher
 
 "I know where he is." Josie turned the strip over. "I didn't drive down for him."
 
-Tara waited. She knew Josie now. She knew what came next: the price. What it would cost Tara to hear the rest, what it would cost her to ask. She stood by the step and waited for Josie to name it.
+Tara knew Josie now. She knew what came next: the price. What it would cost Tara to hear the rest, what it would cost her to ask. She stood by the step and waited for Josie to name it.
 
-Josie did not name it. She sat on the step with the strip in her hand and looked at the bakery's back door for a long time.
+Josie did not name it. She sat on the step with the strip in her hand and looked at the bakery's back door.
 
 "Pop sent this," she said at last, and pushed the bucket an inch along the gravel with her boot. "Don't ask me. He soaked it since Tuesday in the big tub, nobody's allowed to touch it, and this morning he cut a piece off the middle, the thick part, and put it in a bucket and said, 'For the hall. The hall has a sink.'" She looked at Tara. "Does the hall have a sink?"
 
@@ -5238,7 +5238,7 @@ At half past two Fátima came down the side lot in her good coat with a covered 
 
 "Eu sei, filha," said Fátima.
 
-Josie looked from one of them to the other. Then she went out to her car without a word and came back with the box of pizza strips from the trailer step and put it on the bench and opened it.
+Josie looked from one of them to the other. Then she went out without a word and came back with the box of pizza strips from the trailer step and put it on the bench and opened it.
 
 "Eat," she said, to both of them.
 
@@ -5296,19 +5296,19 @@ It rang once.
 
 "Medeiros," her father said.
 
-He said it the way he had said it into that phone every morning of her life, his name and the firm's, one word for both. Behind him the coffee maker was finishing. Nothing else. Her mother would be asleep, or letting him think so.
+He said it the way he had always said it into that phone, his name and the firm's, one word for both. Behind him the coffee maker was finishing. Nothing else. Her mother would be asleep, or letting him think so.
 
 "Pai."
 
-A second went by on the line. "Filha," he said. He did not ask what was wrong. He had stood in that kitchen in his socks at six o'clock every morning since January, waiting for this call, and now that it had come he was not going to frighten it off.
+A second went by on the line. "Filha," he said. He did not ask what was wrong. If he had been waiting for this call, he was not going to frighten it off now that it had come.
 
-She had the numbers on the legal pad in front of her. She had written them out at four: the vendor, the terminal, the tag, the twenty-eighth. She had written them out so that she could read them to him and not have to say the other thing.
+She had the numbers on the legal pad in front of her, written out at four: the vendor, the terminal, the tag, the twenty-eighth. She had written them so that she could read them to him and not have to say the other thing.
 
 "It's structural," she said.
 
 He waited.
 
-"It isn't. It's a hood." It came out level and fast, a bid read over the phone. "The vendor landed a wire on the wrong terminal. The marshal pulled the station and the gas didn't cut. He passed the hall and tagged the valve, and the vendor's closed till the twenty-eighth. The bakery's dark. He went back up to Providence last night."
+"It isn't. It's a hood." It came out level and fast, a bid read over the phone. "The vendor landed a wire on the wrong terminal. The marshal pulled the station and the gas didn't cut. He passed the hall and tagged the valve, and the vendor's closed till the twenty-eighth. The bakery's dark. Nico went back up to Providence last night."
 
 "Who's the vendor?"
 
@@ -5318,7 +5318,7 @@ She told him.
 
 She looked at the legal pad. Everything on it was true, and none of it was the sentence. She turned it face down.
 
-"Pai. I need him here today. Before eleven." She stopped, and then she said the rest, because it was the only part that mattered and she had never once said it. "I'm asking you."
+"Pai. I need him here today. This morning." She stopped, and then she said the part she had never once said. "I'm asking you."
 
 She heard it go down the line to Warren in a whole sentence. It was the heaviest thing she had ever lifted, and when it was gone it weighed nothing at all.
 
@@ -5330,9 +5330,9 @@ In the kitchen in Warren her father set his cup down. She heard it touch the cou
 
 "You'll pay him," her father agreed, as if it had never been in question, and the line went dead, because he was already dialing Fall River.
 
-At ten past six she called the marshal's office and got a machine. At twenty past, Lachance called her back from what sounded like a car. She told him a technician was coming. He said, "Eleven," and hung up.
+At ten past six the phone rang. "He's on the road at seven," her father said, and hung up. She called the marshal's office and got a machine. At twenty past, Lachance called her back from what sounded like a car. She told him a technician was coming. He said, "Eleven," and hung up.
 
-At half past six she called the number Angela had written at the bottom of the printout. Josie answered and said nothing at all, which Tara had not known she could do.
+At half past six she called the number Angela had written at the bottom of the printout. Josie answered and said nothing at all.
 
 "It's Tara. My father's sending a man from Fall River. The marshal's coming at eleven." She looked across the lot at the dark back door. "His dough's in the walk-in. I didn't touch it. He'll want to stay on your counter. He'll say the line needs him." She had already done it once this morning, and the second time cost less. "Don't let him."
 
@@ -5340,7 +5340,7 @@ Josie did not say anything. Far off down the line a bell went over a door, and a
 
 Then the line went quiet. Josie had hung up first.
 
-Tara sat with her hands flat on the desk while the heater ticked. Two calls before it was light. She had asked, twice, and nothing in the building had fallen down.
+Tara sat with her hands flat on the desk while the heater ticked. She had asked, twice, before it was light, and nothing in the building had fallen down.
 
 # Chapter Twenty-Four
 
@@ -5360,7 +5360,7 @@ The line on Atwells Avenue started at the bakery door before six and ran down pa
 
 Vito was at the second register, his one morning a year out front, forearms white, boxing without looking and speaking to nobody but the bread. "Too dry on the top rack," he told a tray of strips. "Weather." Josie ran the case. Angela had the phone and the pickups. The bell over the door went and went.
 
-The apron was the one from the hook. Josie had taken it down at five and handed it to him without a word, and he had tied it on, and neither of them had said anything about it. Thirty miles south a case had been dark at half past four. What time was it in Caswell Harbor? The same time. He did not do the rest of the sum.
+The apron was the one from the hook. Josie had taken it down at five and handed it to him, and he had tied it on, and neither of them had said anything about it. Thirty miles south a case had been dark at half past four. What time was it in Caswell Harbor? The same time. He did not do the rest of the sum.
 
 "You're back," said Mrs. Iacobucci, at twenty past six, at the front of the line with her scarf over her hair. "Three dozen anise. You're back."
 
@@ -5376,7 +5376,7 @@ He gave Mrs. Iacobucci her anise and a shell she had not paid for, and she patt
 
 At half past six Josie's phone rang in her apron pocket. She looked at it. She went to the end of the case by the window, where the line could not reach her, and put it to her ear, and listened.
 
-He had never seen his sister listen on a telephone. Josie priced things on telephones and hung up on them first. She stood at the window with the phone against her ear and said nothing, and nothing, and her free hand came up and rested flat on the glass. Then she took the phone down and put it in her pocket, still without a word, and came back up the counter.
+He had never seen his sister listen on a telephone. Josie priced things on telephones and hung up on them first. She stood there and said nothing, and nothing, and her free hand came up and rested flat on the glass. Then she took the phone down and put it in her pocket and came back up the counter.
 
 "Who was that?" he said.
 
@@ -5400,7 +5400,7 @@ By nine the line had only got colder. He called every person he knew by their or
 
 "My son-in-law helped," she said, and he gave her two.
 
-At half past nine he was reaching into the case for the last tray of shells when he felt a hand at his back, at the knot.
+At half past nine he was reaching into the case for the last tray of shells when a hand found his back, at the knot.
 
 "Arms," said Josie.
 
@@ -5692,7 +5692,7 @@ Sienna took a shell off Elijah's top tray as it went past, put it in Tara's palm
 
 It burned through the paper. Tara ate it.
 
-She went down for the struffoli. Nico came up last with Olivia's cake held in front of him in both hands, and at the top of the stair he stopped, because there were three lighthouses on the stage window. He looked at it a long time. Then he found her across the room, and went to put the cake down.
+She went down for the struffoli. Nico came up last with Olivia's cake held in front of him in both hands, and at the top of the stair he stopped, because there were three lighthouses on the stage window. He looked at them a long time. Then he found her across the room, and went to put the cake down.
 
 Lachance stood by the east wall in his department jacket with a shell on a napkin, looking at the sash. "Marshal."
 
@@ -5830,7 +5830,7 @@ The whole hall heard him ask it. She had not prepared an answer, because she had
 
 "It's the only one I've got right all month." He did not look away. "And the sign. It's got the building's name on it and nobody's. Put yours on it, beside mine. You built the room it bakes in."
 
-She saw her father unfold his arms.
+Her father unfolded his arms.
 
 "Tara," Nico said. Only that. "Put your name on it."
 
@@ -5976,7 +5976,7 @@ Then the cod came up both stairs at once. Josie had posted Angela at the street 
 
 "Mãe," said Tara. "Don't."
 
-They reached the hall from opposite ends, from the old door and the new one, with forty feet of maple between them and a table down the middle, and Nico watched both families stand up.
+They reached the hall from opposite ends, from the old door and the new one, with forty feet of maple between them and a table down the middle, and both families stood up.
 
 "Stop," said Tara.
 
@@ -6072,7 +6072,7 @@ She went back upstairs. Tara stayed. She looked at him across the old kitchen, o
 
 "It's how I'm bidding it," said Tara. "Second."
 
-He looked at her over the sink where the two cods had soaked, and he did not argue, which he had not known he could do.
+He looked at her over the sink, and he did not argue, which he had not known he could do.
 
 "Second," Nico said.
 
@@ -6334,9 +6334,9 @@ Josie was in a good coat Tara had never seen, a dark green one, with no flour on
 
 Tara stood beside her and did not tell her. She did not know either.
 
-At seven the town went up Ferry Lane for the 42nd Keeper's Light, and the families stayed down and cooked.
+At seven the town went up Ferry Lane for the forty-second Keeper's Light, and the families stayed down and cooked.
 
-Fátima fried the bacalhau, as agreed at the soapstone sink a year ago, in Lourdes's kitchen, in Vito's black pan, which Vito had brought down from Federal Hill in a towel. Josie had boiled a piece of the baccalà at five with potatoes and cabbage and eggs and dressed it with oil and garlic, exactly as she had been told, under supervision, and had then gone out in the green coat for two hours without saying where, and come back with her cheeks red from the cold and said nothing about it to anyone.
+Fátima fried the bacalhau, as agreed at the soapstone sink a year ago, in Lourdes's kitchen, in Vito's black pan, which Vito had brought down from Federal Hill in a towel. Josie had boiled a piece of the baccalà at five with potatoes and cabbage and eggs and dressed it with oil and garlic, as she had been told, under supervision, and had then gone out in the green coat for two hours, and come back with her cheeks red from the cold and said nothing about it to anyone.
 
 They carried them up at eight, one up each stair. Nobody raced. Tara made them set the platters down together on a count, either side of the wheat, which had come from Warren in the morning in its clay pot, sown in her rows, a hand and a half high.
 
@@ -6378,7 +6378,7 @@ Her father looked at her a moment longer. Then he nodded, once, and drank his co
 
 At the far end of the table her mother picked her fork back up. "Eu sei, filha," said Fátima, to nobody, and ate.
 
-When the Brooks family had gone to church, at a quarter to twelve there was a knock at the street door, and Nico went down with the bottle and the glass, nineteen treads, eleven its own note, and the table heard him through the door say "Mija" in Providence vowels and Lourdes laugh on the other side of it.
+At a quarter to twelve, when the Brooks family had gone to church, there was a knock at the street door, and Nico went down with the bottle and the glass, nineteen treads, eleven its own note, and the table heard him through the door say "Mija" in Providence vowels and Lourdes laugh on the other side of it.
 
 Tara stood at the stage window. Behind her the hall was lit end to end, the long table and both families at it and the front booth and the committee and Izzy asleep across two chairs with her notebook under her cheek. Her father and his were arguing about the steam. Olivia was writing something on Grange letterhead, dated, Tara had no doubt, tomorrow.
 
