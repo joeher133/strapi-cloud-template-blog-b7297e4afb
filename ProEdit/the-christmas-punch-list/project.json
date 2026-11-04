@@ -10,18 +10,67 @@
   "extracted_text": "ProEdit/the-christmas-punch-list/manuscript.md",
   "created": "2026-11-04",
   "stages": {
-    "dev":       { "status": "todo", "completed": null, "artifact": null },
-    "structure": { "status": "todo", "completed": null, "artifact": null },
-    "line":      { "status": "todo", "completed": null, "artifact": null },
-    "copy":      { "status": "todo", "completed": null, "artifact": null },
-    "continuity":{ "status": "todo", "completed": null, "artifact": null },
-    "proof":     { "status": "todo", "completed": null, "artifact": null }
+    "dev": {
+      "status": "todo",
+      "completed": null,
+      "artifact": null
+    },
+    "structure": {
+      "status": "todo",
+      "completed": null,
+      "artifact": null
+    },
+    "line": {
+      "status": "todo",
+      "completed": null,
+      "artifact": null
+    },
+    "copy": {
+      "status": "todo",
+      "completed": null,
+      "artifact": null
+    },
+    "continuity": {
+      "status": "todo",
+      "completed": null,
+      "artifact": null
+    },
+    "proof": {
+      "status": "todo",
+      "completed": null,
+      "artifact": null
+    }
   },
-  "resume": { "stage": "intake", "chunk": 0, "of": 4 },
+  "resume": {
+    "stage": "intake",
+    "chunk": 0,
+    "of": 4
+  },
   "ledger_path": "ProEdit/the-christmas-punch-list/continuity-ledger.md",
   "map_path": "ProEdit/the-christmas-punch-list/manuscript-map.md",
   "style_sheet_path": null,
   "final_manuscript": null,
   "report_format": "docx",
-  "voice_profile": {}
+  "voice_profile": {
+    "sentence_rhythm": "Two modes in alternation: long cumulative sentences chained on 'and' (polysyndeton, up to ~95 words) for process, motion, and accumulation; and stacked short declaratives and fragments ('One click.' 'The walls came out true.'). Scenes and chapters usually open on a clock time ('At a quarter past four...') and close on a short line, a single image, or a line of dialogue. Refrains and repetition-with-variation across exchanges ('I'm coming down.' / 'I'm going up.').",
+    "sentence_length": "Mean roughly 9 to 14 words, median about 9; a large share are four words or fewer (dialogue included); range from one-word lines to ~95-word chains. Frequent one-line paragraphs for emphasis; narrative paragraphs mostly 2 to 8 sentences.",
+    "vocabulary": "Plain, concrete, Anglo-Saxon. Dense, exact trade vocabulary from both crafts: carpentry and code (casing, sistered joists, stringers, cribbing, nosing, fusible links, interlock, NFPA 96, Sonotube) and baking (sfogliatelle shells, isomalt, proofer, deck oven, mostaccioli, struffoli). Numbers and measurements spelled out in narration and dialogue ('thirty-six and a quarter'); times mostly in words.",
+    "signature_diction": [
+      "arithmetic and 'did the number' as the way feeling is processed",
+      "counting: punch-list items, days, treads, shells, seconds",
+      "tread eleven's single note; the stair as instrument",
+      "the tape measure, the level, a palm flat on a surface",
+      "'a whole sentence' as the mark of sincerity",
+      "'went quieter, which he had learned was worse'",
+      "similes drawn from each character's trade (Nico: piping bag, till, tray; Tara: joists, load, walls)",
+      "reading people like buildings",
+      "deadpan understatement by juxtaposition ('which was a fire-code problem and a strategy')",
+      "epithet tags for townsfolk ('Harold, who did not round')",
+      "the front booth at Almeida's as chorus",
+      "'It's fine' and 'Eat something' as recurring lines"
+    ],
+    "punctuation": "No em dashes or en dashes anywhere in the book; commas carry interruption and clause linkage. Semicolons very rare (about 16 in the whole book, mostly early). Ellipses (single character) only for cut-off or trailing dialogue, never dashes. Colons sparing, for lists and expansions and text-message labels. Exclamation points almost absent, reserved for Izzy and a handful of shouts. Fragments frequent. All caps for written signage, lists, and notes (FIRE STAIR, BOTH, OR NEITHER). Curly quotes.",
+    "dialogue_style": "'Said' near-universal, often inverted ('said Lourdes'); other verbs rare ('agreed', 'asked'). Long runs of untagged rapid exchanges; action beats often replace tags. Distinct tics: Olivia's 'dear' and formal letters; Lourdes's clipped imperatives and 'honey'/'querida'; Curtis's 'It's a public service'; Tara's flat, short lines ('Somewhere else.' 'Terms.'); Nico runs on, says 'Okay', jokes and then restrains himself; Elijah's 'T' and 'Chef'. Portuguese words and short phrases (filha, Mãe, Pai, Eu sei, Consoada, O Menino mija?) sometimes glossed or reported rather than quoted; Italian limited to food terms and nicknames (Pop, Nicky, Ange, Jo). Texts set as labeled lines; Sienna and Nico text lowercase and unpunctuated, Tara texts capitalized with periods.",
+    "narrative_distance": "Past tense, close third, one POV per chapter, alternating Tara (odd chapters, epilogue) and Nico (even chapters), each labeled at chapter head with a countdown dateline. Interiority runs as free indirect thought without italics; emotion is rendered through counting, measurement, and physical detail rather than named. Remembered lines of other people set alone as their own paragraphs ('It's just a name, filha.' 'Everybody comes back to the ovens, Nicky.'). Tara chapters lean on measurement, lists, and terse closes; Nico chapters carry more dialogue, food and family, and more free-indirect rhetorical questions ('What did it look like from her side of the van?'). Both share the same no-dash, and-chained syntax."
+  }
 }
