@@ -81,15 +81,15 @@
       "artifact": null
     },
     "proof": {
-      "status": "todo",
+      "status": "in-progress",
       "completed": null,
       "artifact": null
     }
   },
   "resume": {
-    "stage": null,
+    "stage": "proof",
     "chunk": 0,
-    "of": 0
+    "of": 7
   },
   "ledger_path": "ProEdit/the-christmas-punch-list/continuity-ledger.md",
   "map_path": "ProEdit/the-christmas-punch-list/manuscript-map.md",
