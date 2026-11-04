@@ -2,11 +2,11 @@
   "title": "The Christmas Punch List",
   "author_pen_name": "Emma Bramwell",
   "genre": "holiday small-town romance (A Caswell Harbor Christmas Romance)",
-  "wordcount": 71263,
+  "wordcount": 71037,
   "chapters": 27,
   "chapter_note": "26 numbered chapters plus an Epilogue",
   "manuscript_path": "ProEdit/the-christmas-punch-list/The-Christmas-Punch-List.docx",
-  "working_manuscript": "ProEdit/the-christmas-punch-list/The-Christmas-Punch-List-dev-revisions-clean.docx",
+  "working_manuscript": "ProEdit/the-christmas-punch-list/The-Christmas-Punch-List-structure-revisions-clean.docx",
   "extracted_text": "ProEdit/the-christmas-punch-list/manuscript-revised.md",
   "created": "2026-11-04",
   "stages": {
@@ -38,6 +38,17 @@
         "works": 132,
         "needs_work": 3,
         "cut_or_merge": 5
+      },
+      "revisions": {
+        "applied": "2026-11-05",
+        "redline": "ProEdit/the-christmas-punch-list/The-Christmas-Punch-List-structure-revisions-REDLINE.docx",
+        "clean": "ProEdit/the-christmas-punch-list/The-Christmas-Punch-List-structure-revisions-clean.docx",
+        "scenes_after": 133,
+        "decisions": {
+          "twenty_two_hours_line": "kept (20.2/20.3 merged by dropping the break)",
+          "ch23_dateline": "left as is",
+          "sienna_binder": "kept"
+        }
       }
     },
     "line": {

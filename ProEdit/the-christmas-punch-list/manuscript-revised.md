@@ -4764,6 +4764,8 @@ There was a foot of floor between them. Her hands were deep in her vest, because
 
 The green swung across the glass and lit her for a second, the side of her face and the gray wool, and was gone. He did not move the foot. She did not move it either. It stayed there between them on the stage, a foot of maple with the first coat going amber on it, and nobody closed it, and it held.
 
+Five days. Seven items on her door. And on the twenty-second, Lachance at the valve, and all of December riding on one pull of a station. He had not let himself count it before. He counted it now, the way she would have, and it came out the same both times.
+
 Did she know what tomorrow was? Of course she knew. He had told her on the bench, and she had done it at "Friday," and she had said "I know" in the trailer yesterday as if it were a dimension on a drawing. He stood beside her in the dark with his hands empty and let it go unsaid, which was the only thing in the building he knew how to carry by himself.
 
 The light came up, and went out.
@@ -5142,7 +5144,7 @@ She stood there a long time with the flour on her hip. Tara watched her look at 
 
 At ten past five there was a knock on the trailer step. When Tara opened the door there was nobody on it, and a black coffee in a paper cup on the top tread, steaming, and across the street Lourdes's back going in through her door.
 
-The back of the specials board was clean. Tara saw it from the third stool. The front still said KALE SOUP and TUNA MELT and PIE. The back, where for four weeks Curtis had chalked the town's opinion of her in downhill capitals, had been wiped with a wet rag, corner to corner, so carefully that there was not one ghost of a number left on it. Even the contest odds in the corner were gone.
+At seven she went across for her coffee. The back of the specials board was clean. Tara saw it from the third stool. The front still said KALE SOUP and TUNA MELT and PIE. The back, where for four weeks Curtis had chalked the town's opinion of her in downhill capitals, had been wiped with a wet rag, corner to corner, so carefully that there was not one ghost of a number left on it. Even the contest odds in the corner were gone.
 
 Curtis was on his stool with his corn muffin. The chalk was still in his shirt pocket.
 
@@ -5239,12 +5241,6 @@ At half past two Fátima came down the side lot in her good coat with a covered 
 Josie looked from one of them to the other. Then she went out to her car without a word and came back with the box of pizza strips from the trailer step and put it on the bench and opened it.
 
 "Eat," she said, to both of them.
-
-Brian Doyle stopped on the sidewalk at half past three with his bowl of peppermints under his arm, because he was taking it home for Christmas, and looked at the dark window under the gold-on-black sign. "Just to play devil's advocate," he said. "Spring's not a bad season for a bakery."
-
-"It's a bad season for a loan," said Tara.
-
-Brian looked at her. Then he took a peppermint out of his own bowl, which she had never seen anyone do, and unwrapped it and put it in his mouth and went on down Main Street to his office.
 
 The trim was off the cot when she came back from walking her mother to the truck. Both moving blankets were gone. She stood in the trailer door and looked at the bare cot and the coffee can of cut nails missing from the shelf, and the wheat standing alone in its rows where the can had been, and she went round the front of the building to Main Street.
 
@@ -5914,15 +5910,11 @@ She stood on the granite step with Nico beside her and looked up at it. Two name
 
 At a quarter past six the town went up Ferry Lane with flashlights, and Nico stood on the Grange's top step in his white jacket with a tray of shells nobody had asked him for and watched it go.
 
-They went in twos and threes past the wet sign, and every one of them looked up at it. The front booth went by in order of age. Curtis went by with his hands in his pockets, walking up the hill to watch somebody else keep the light, and took a shell without stopping. Patricia went by alone with a program in her glove and did not take one. Izzy had gone up at four with her mother, because Pip had two lines and Pip was early.
-
 "You're not going?" said Lourdes, last, with her collar up.
 
 "We've got two cods and a hall."
 
 "Then save me a plate, honey. Of each." She looked at him. "I'll tell you which one's right."
-
-The lane took them up the hill, flashlights going left and right in the dark, and then the barn's windows lit at the top. Who was going to buy a shell at half past six on Christmas Eve? Nobody, and the case stayed lit anyway, beside the trailer light and the hall's tall windows over his head.
 
 The wager was made at the soapstone sink at ten to seven, and he was there for it, and he wished afterward he had written it down.
 
@@ -6100,17 +6092,11 @@ Every head at the table came up. "Wayne asked Rachel! At the barn! After! With t
 
 The Brooks family, Sienna's people, came down the hill behind Izzy at half past nine, without the couple, who had stayed up at the barn. Denise came in first with a covered dish, because Denise did not arrive anywhere without one, and Gary behind her with the forecast, and Patricia, and Sienna on Marcus's arm, and Curtis last, with his cap in his hands and his face scrubbed.
 
-"Okay," said Denise, setting the dish between the two cods. "So here's the plan. We stay till ten-fifty. Not ten-fifty-five. Church is at eleven."
-
 "What's in the dish?" said Josie.
 
 "Chowder."
 
 "Fish," said Vito, with approval. "That's three."
-
-"Winds northwest ten," said Gary, to Humberto, as a handshake. "Clear till Monday."
-
-"Good for a roof," said Humberto.
 
 Sienna found a chair beside Angela, and within four minutes Angela had Sienna's wedding binder open on the table between them with her reading glasses on.
 

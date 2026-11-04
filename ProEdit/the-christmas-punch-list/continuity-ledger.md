@@ -155,7 +155,7 @@ Emma Bramwell | holiday small-town romance | built 2026-11-04 by /edit-intake
 
 ### Brian Doyle
 - Role: has an office on Main Street next to a gift shop (ch 1, ch 9, ch 12, ch 17, ch 23); on the "board" (ch 1); wrote the lease, section nine (ch 9); showed Nico the ground floor (ch 15); Nico's landlord, "I'll still owe Brian rent" (ch 22). Expression "of a realtor" (ch 1, simile).
-- Possessions: coffees from Almeida's, SHOP SMALL stickers, planned Small Business Saturday photo (ch 1); gave Nico the pen to sign (ch 9); scarf on wrong, folder under his arm (ch 9); bowl of peppermints (ch 23).
+- Possessions: coffees from Almeida's, SHOP SMALL stickers, planned Small Business Saturday photo (ch 1); gave Nico the pen to sign (ch 9); scarf on wrong, folder under his arm (ch 9).
 - Speech: described Lourdes "in April as an institution and in October as a weather system" (ch 2); "Just to play devil's advocate here" (ch 9 twice, ch 23).
 - Other: "Brian gets two" (ch 17); Tara's "fine" voice used for Brian (ch 19).
 
@@ -245,8 +245,8 @@ Emma Bramwell | holiday small-town romance | built 2026-11-04 by /edit-intake
 - Rui: Humberto's man (ch 20); Rui Monday (ch 20); wants a man in March for the church steeple (epilogue).
 - The Sousa boy: Humberto's man; "The Sousa boy doesn't read" (ch 20).
 - Danny Pacheco: Manny's nephew, letters boats; painted the winners' board and the sign (ch 25, epilogue); calls Nico "Chef" (ch 25, epilogue).
-- Denise Brooks: covered dish, chowder; "We stay till ten-fifty... Church is at eleven" (ch 26); chowder (epilogue).
-- Gary Brooks: forecast, "Winds northwest ten... Clear till Monday" (ch 26).
+- Denise Brooks: covered dish, chowder (ch 26); chowder (epilogue).
+- Gary Brooks: arrives "with the forecast" (ch 26; epilogue).
 - Mrs. Iacobucci: Rinaldi's customer, anise (ch 4); Pop told her about three hundred pieces (ch 16); cried at the news (ch 23); three dozen anise, back at nine, son-in-law (ch 24).
 - Mr. Carcieri: Atwells customer, same tile every Christmas Eve "since Nico was in high school"; two dozen strips, struffoli, anise for his mother, cannoli (ch 24).
 - The Delucas: third in line, two trays of cookies (ch 24).
@@ -356,7 +356,6 @@ Emma Bramwell | holiday small-town romance | built 2026-11-04 by /edit-intake
 - Lockbox on the left-hand knob since April (ch 25).
 - Fátima's jars ("Something dark") (ch 26); bottle and small glass (ch 26, epilogue).
 - Olivia's cake: "no nuts" sign (ch 22, ch 24, epilogue).
-- Brian's bowl of peppermints (ch 23).
 - Vehicles: Nico's white van (ch 23, ch 24); Tara's truck (ch 23, ch 24, epilogue); Josie's car (ch 23); Humberto's white pickup (ch 24); red service van, Massachusetts plate (ch 24).
 - Lighthouses (contest pieces): see Contest.
 - Food: focaccia, rosemary (ch 10); focaccia, grandfather's recipe (ch 16, ch 21); Forno focaccia with rosemary and salt, big squares (ch 21). Caçoila on sweet-bread rolls (ch 8). Kale soup (Fátima ch 8; Lourdes ch 12; ch 15, ch 16, ch 19). Bolo de frutas (ch 8). Bacalhau/baccalà (ch 8). Tuna melt on rye, extra pickle on the side, American cheese; coffee milk (ch 10); coffee milk (ch 19). Sonhos (cinnamon, fried dough, orange) (ch 20). Mostaccioli: grandfather's; molasses because he couldn't afford honey in 1952; clove or pepper (ch 17). Struffoli: ring of fried dough in honey with colored sprinkles (ch 18).
@@ -475,3 +474,5 @@ Emma Bramwell | holiday small-town romance | built 2026-11-04 by /edit-intake
 - Humberto answers the Warren kitchen phone "Medeiros" (ch 23); answered on the first ring at six on Christmas Eve (ch 23).
 - Tara's Christmas Eve calls: father at 6:00 (ch 23, ch 24, ch 25); marshal's office at 6:10, Lachance calls back at 6:20 and says "Eleven" (ch 23); Josie at 6:30, number from the bottom of Angela's printout (ch 23; ch 24).
 - Timeline: ch 23 now ends at about 6:30 a.m. on December 24 (the call scene), under the dateline "One day to the reopening".
+
+- Structural revisions (2026-11-05) removed: Brian's peppermint scene (ch 23); the town passing the wet sign on the way to the play and Izzy leaving early for Pip (ch 26 opening); Denise's "ten-fifty" schedule and Gary's "Winds northwest ten" exchange (ch 26). Added: Nico's five-day countdown (ch 20); "At seven she went across for her coffee" bridging Tara to the diner (ch 23).

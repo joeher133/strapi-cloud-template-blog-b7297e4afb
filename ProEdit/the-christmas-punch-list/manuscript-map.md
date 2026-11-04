@@ -1,5 +1,5 @@
 # Manuscript Map: The Christmas Punch List
-Emma Bramwell | A Caswell Harbor Christmas Romance | 71,263 words | 26 chapters + epilogue | 140 scenes
+Emma Bramwell | A Caswell Harbor Christmas Romance | 71,037 words | 26 chapters + epilogue | 133 scenes
 Alternating close-third POV: Tara (odd chapters, epilogue), Nico (even chapters). Each chapter opens with a POV label and a countdown dateline.
 Built 2026-11-04 by /edit-intake
 
@@ -98,7 +98,7 @@ Dateline: Six days to the reopening
 Scenes: 5 (breaks after the fire stair is crossed off; after Olivia's letter; after the trailer exchange of finances; after Curtis bets under the register drawer)
 Synopsis: The new fire stair is finished and knocks at the landing, Olivia sees the window over her mother's sink, Tara and Nico disclose their finances in the trailer and she reprices his shells, Curtis secretly bets, and Tara learns her parents are visiting.
 
-## Chapter 20 (2,685 words) | POV: Nico
+## Chapter 20 (2,736 words) | POV: Nico
 Dateline: Five days to the reopening
 Scenes: 7 (breaks after Lourdes identifies the sonhos; after Humberto says "Show me that"; after the old-stair and window tour; after Humberto leaves the trailer step; after Fátima leaves the wheat pot; after Sienna gives Nico the cap)
 Synopsis: Tara's parents visit, Humberto inspects her work and calls the stair good, she refuses his offer of two men, Fátima secretly leaves a pot of wheat in the trailer, Sienna sends a new cap through Nico, and Tara and Nico stand on the stage the night before the twentieth.
@@ -113,7 +113,7 @@ Dateline: Two days to the reopening
 Scenes: 6 (breaks after Lachance pulls the station; after the vendor's interlock fault is found and Nico thanks him; after the certificate, red tag and vendor voicemail ("That's simple, then"); after Nico withdraws and Tara says "It's fine"; after the call to Josie)
 Synopsis: At the marshal's live test the suppression system fires but the deck burner stays lit because the vendor miswired the interlock; Lachance passes the hall but tags the gas valve until the vendor (closed till the 28th) recertifies, so Nico withdraws his lighthouse and announces he is returning to Atwells.
 
-## Chapter 23 (3,183 words) | POV: Tara
+## Chapter 23 (3,092 words) | POV: Tara
 Dateline: One day to the reopening
 Scenes: 9 (breaks after Lourdes leaves coffee on the trailer step; after Curtis's wiped board; after Olivia's final payment; after Josie brings Vito's baccalà; after the two cods are set soaking; after Brian Doyle; after Nico reinstalls the door casing and leaves; after Tara sets the alarm for 5:45)
 Synopsis: With the bakery dark, Tara receives the final payment, Josie and Fátima set their families' salt cod soaking side by side in the soapstone sink, Nico rehangs the supper-room door casing before driving to Providence, and Tara, after Sienna texts "ask," sets an alarm for 5:45; at six on Christmas Eve morning she calls her father and asks him for a technician, then calls Lachance and Josie.
@@ -128,7 +128,7 @@ Dateline: Christmas Eve
 Scenes: 6 (breaks after Tara sets Nico's lighthouse in the stage window; after the hall opens and the families arrive; after Izzy questions Vito; after Patricia's verdict; after the kiss, Curtis's payout and Olivia's ruling; the last scene is the sign lettering at dusk)
 Synopsis: Tara crosses off item forty-two, carries Nico's withdrawn lighthouse upstairs to re-enter it, and opens the hall; Patricia awards the 2027 contest to Nico's lighthouse, Nico publicly asks Tara to put her name on the sign, she says yes and kisses him, and Danny letters MEDEIROS beside RINALDI.
 
-## Chapter 26 (2,676 words) | POV: Nico
+## Chapter 26 (2,489 words) | POV: Nico
 Dateline: Christmas Eve
 Scenes: 6 (breaks after the town goes up Ferry Lane; after the cod wager and table setup; after the shared supper; after Nico overhears Tara and Fátima and they settle payment order; after Izzy's news, the Brooks family's visit and Patricia's card; last scene is the midnight knock)
 Synopsis: Josie and Fátima wager over whose cod is served first; Tara sets both platters down together, Nico overhears Tara confess to her mother why she underbid and stayed away, they agree he pays his sisters before her, and at midnight Nico goes down to answer Lourdes's "O Menino mija?"
@@ -140,3 +140,4 @@ Synopsis: A year later, on the anniversary, Tara has a lettered truck and both n
 
 ---
 Revised 2026-11-04 after the developmental edit: ch 14 (Rachel seeded at the tree lighting), ch 23 (BOTH, OR NEITHER beat; new final scene, the call), ch 25 (Tara's beat before "Yes"), ch 26 (Brooks family placed). Counts above reflect the revised draft.
+Revised 2026-11-05 after the structural edit: scene breaks removed in ch 8 (now 4 scenes), ch 20 (6), ch 23 (7; Brian scene cut), ch 24 (7), ch 25 (5), ch 26 (5; opening and arrivals trimmed); countdown line added in ch 20. Scene lists above predate this merge; see the Scene Map spreadsheet for the per-scene record.
