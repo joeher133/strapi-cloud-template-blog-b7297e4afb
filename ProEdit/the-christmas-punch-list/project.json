@@ -1,0 +1,27 @@
+{
+  "title": "The Christmas Punch List",
+  "author_pen_name": "Emma Bramwell",
+  "genre": "holiday small-town romance (rivals-to-lovers Christmas romance)",
+  "wordcount": 70327,
+  "chapters": 27,
+  "chapter_note": "26 numbered chapters plus an Epilogue",
+  "manuscript_path": "ProEdit/the-christmas-punch-list/The-Christmas-Punch-List.docx",
+  "working_manuscript": "ProEdit/the-christmas-punch-list/The-Christmas-Punch-List.docx",
+  "extracted_text": "ProEdit/the-christmas-punch-list/manuscript.md",
+  "created": "2026-11-04",
+  "stages": {
+    "dev":       { "status": "todo", "completed": null, "artifact": null },
+    "structure": { "status": "todo", "completed": null, "artifact": null },
+    "line":      { "status": "todo", "completed": null, "artifact": null },
+    "copy":      { "status": "todo", "completed": null, "artifact": null },
+    "continuity":{ "status": "todo", "completed": null, "artifact": null },
+    "proof":     { "status": "todo", "completed": null, "artifact": null }
+  },
+  "resume": { "stage": "intake", "chunk": 0, "of": 4 },
+  "ledger_path": "ProEdit/the-christmas-punch-list/continuity-ledger.md",
+  "map_path": "ProEdit/the-christmas-punch-list/manuscript-map.md",
+  "style_sheet_path": null,
+  "final_manuscript": null,
+  "report_format": "docx",
+  "voice_profile": {}
+}
