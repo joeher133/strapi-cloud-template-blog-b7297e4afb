@@ -29,9 +29,16 @@
       }
     },
     "structure": {
-      "status": "todo",
-      "completed": null,
-      "artifact": null
+      "status": "done",
+      "completed": "2026-11-04",
+      "artifact": "ProEdit/the-christmas-punch-list/the-christmas-punch-list-scene-map.xlsx",
+      "notes": "ProEdit/the-christmas-punch-list/the-christmas-punch-list-scene-notes.docx",
+      "summary": {
+        "scenes": 140,
+        "works": 132,
+        "needs_work": 3,
+        "cut_or_merge": 5
+      }
     },
     "line": {
       "status": "todo",
