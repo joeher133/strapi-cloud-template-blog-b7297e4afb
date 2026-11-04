@@ -42,9 +42,9 @@
     }
   },
   "resume": {
-    "stage": "intake",
+    "stage": null,
     "chunk": 0,
-    "of": 4
+    "of": 0
   },
   "ledger_path": "ProEdit/the-christmas-punch-list/continuity-ledger.md",
   "map_path": "ProEdit/the-christmas-punch-list/manuscript-map.md",
@@ -72,5 +72,6 @@
     "punctuation": "No em dashes or en dashes anywhere in the book; commas carry interruption and clause linkage. Semicolons very rare (about 16 in the whole book, mostly early). Ellipses (single character) only for cut-off or trailing dialogue, never dashes. Colons sparing, for lists and expansions and text-message labels. Exclamation points almost absent, reserved for Izzy and a handful of shouts. Fragments frequent. All caps for written signage, lists, and notes (FIRE STAIR, BOTH, OR NEITHER). Curly quotes.",
     "dialogue_style": "'Said' near-universal, often inverted ('said Lourdes'); other verbs rare ('agreed', 'asked'). Long runs of untagged rapid exchanges; action beats often replace tags. Distinct tics: Olivia's 'dear' and formal letters; Lourdes's clipped imperatives and 'honey'/'querida'; Curtis's 'It's a public service'; Tara's flat, short lines ('Somewhere else.' 'Terms.'); Nico runs on, says 'Okay', jokes and then restrains himself; Elijah's 'T' and 'Chef'. Portuguese words and short phrases (filha, Mãe, Pai, Eu sei, Consoada, O Menino mija?) sometimes glossed or reported rather than quoted; Italian limited to food terms and nicknames (Pop, Nicky, Ange, Jo). Texts set as labeled lines; Sienna and Nico text lowercase and unpunctuated, Tara texts capitalized with periods.",
     "narrative_distance": "Past tense, close third, one POV per chapter, alternating Tara (odd chapters, epilogue) and Nico (even chapters), each labeled at chapter head with a countdown dateline. Interiority runs as free indirect thought without italics; emotion is rendered through counting, measurement, and physical detail rather than named. Remembered lines of other people set alone as their own paragraphs ('It's just a name, filha.' 'Everybody comes back to the ovens, Nicky.'). Tara chapters lean on measurement, lists, and terse closes; Nico chapters carry more dialogue, food and family, and more free-indirect rhetorical questions ('What did it look like from her side of the van?'). Both share the same no-dash, and-chained syntax."
-  }
+  },
+  "intake_completed": "2026-11-04"
 }
