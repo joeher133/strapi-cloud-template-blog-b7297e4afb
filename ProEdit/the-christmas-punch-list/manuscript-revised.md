@@ -198,7 +198,7 @@ He looked at the mug. It was what he would have ordered, if he had ever in his l
 
 So that was Lourdes Almeida, whom Brian Doyle had described in April as an institution and in October as a weather system. Nico sat. The diner was a long narrow room with twelve red stools and five booths and a corkboard by the door buried in notices: a lost cat, a wreath sale, a sheet of Grange letterhead thanking the town in advance for its patience, signed Olivia Mitchell, Chair. At the far end, by an old brass register, stood a chalkboard on an easel listing the specials, and beside it, lit and humming, a pie case he had not known about.
 
-It was a good one. Three shelves: an apple with a lattice somebody had woven by hand, a chocolate cream with the meringue browned in peaks, and a pie the color of a pumpkin that was not quite a pumpkin, squash maybe, cut into eight with the first wedge gone. He looked at it the way he looked at another baker's bread, with love and a ruler, and then he looked over his shoulder through the front window at the Grange, at the black sign with GRANGE HALL BAKERY in gold over the right-hand door, and he worked out that if he stood at his own register on Christmas Eve he would be looking straight at this pie case, and the woman who owned it would be looking straight back.
+It was a good one. Three shelves: an apple with a lattice somebody had woven by hand, a chocolate cream with the meringue browned in peaks and a pie the color of a pumpkin that was not quite a pumpkin, squash maybe, cut into eight with the first wedge gone. He looked at it the way he looked at another baker's bread, with love and a ruler, and then he looked over his shoulder through the front window at the Grange, at the black sign with GRANGE HALL BAKERY in gold over the right-hand door, and he worked out that if he stood at his own register on Christmas Eve he would be looking straight at this pie case, and the woman who owned it would be looking straight back.
 
 Lourdes put the egg sandwich down in front of him on a white plate. "So," she said. "Bakery."
 
@@ -486,9 +486,13 @@ Tara did not answer that. It was Elijah's handwriting on the list, and her order
 
 "Come see it," Lourdes said to Nico, and went back across the street, and Nico went after her, and the three heads in the front booth turned together to watch him come in.
 
-Tara sat down on the step where he had been. The granite was cold through her work pants. She opened the white box. They sat in rows, shells of pastry gone flat on top from riding against his chest, and a dust of sugar had come off them onto the waxed paper. She closed it again and took out her phone.
+Tara sat down on the step where he had been. The granite was cold through her work pants. She opened the white box. They sat in rows, shells of pastry gone flat on top from riding against his chest, and a dust of sugar had come off them onto the wax paper. She closed it again and took out her phone.
 
-Sienna: heard you told olivia no in almeidas Sienna: on a sunday Sienna: in front of manny
+Sienna: heard you told olivia no in almeidas
+
+Sienna: on a sunday
+
+Sienna: in front of manny
 
 Tara: Marcus?
 
@@ -672,7 +676,7 @@ He found he was grinning at a woman's grill, and he put his head down and went b
 
 The walls came out of the old oven at twenty to three, and the back-left panel was darker than the rest, and he cut it again from the scraps and did not mention it. Ten minutes later the first shells were out too, blistered gold and crackling, the ricotta inside them hot enough to hurt, and he had a sheet of focaccia cut into squares besides, because men on a framing crew in November wanted salt as much as they wanted sugar. Twelve shells. Twelve squares. Elijah would eat in sixes, and the framers she had on day rate this week would eat whatever Elijah left them.
 
-He carried the tray across Main Street in his sweater with a dish towel over it. The cold came up off the Bay and straight through the wool. Main Street on a Tuesday afternoon was a man walking a beagle, a mail truck, and the woman from the gift shop by Brian's office, who came out onto her step again and watched him cross with her arms folded, as she had watched the ovens come off the flatbed.
+He carried the tray across Main Street in his sweater with a dish towel over it. The cold came up off the Bay and straight through the wool. Main Street on a Tuesday afternoon was a man walking a beagle, a mail truck and the woman from the gift shop by Brian's office, who came out onto her step again and watched him cross with her arms folded, as she had watched the ovens come off the flatbed.
 
 "Afternoon," he said. "Try one. They're free. I can't sell them yet, it's a whole thing with the fire marshal."
 
@@ -770,7 +774,7 @@ Elijah came across at five past six with the tray under his arm like a schoolboo
 
 He went out. The door let the cold in behind him and then shut it out again.
 
-Nico washed the tray in Lourdes's deep sink, though it was clean, because the water was hot and his hands wanted something to do. Across Main Street the trailer window stayed lit, a square of yellow in the dark side lot beside the tarped shapes that were his ovens, and he could not see her in it, only the light. He dried the tray and laid it on the steel table and set the second batch of dough beside it to come up to temperature. Tomorrow there would be twelve again. He laid them out in his head before he laid them out on the tray: six for Elijah, five for the framers, and the last one at the near corner, where a person could reach it without having to look.
+Nico washed the tray in Lourdes's deep sink, though it was clean, because the water was hot and his hands wanted something to do. Across Main Street the trailer window stayed lit, a square of yellow in the dark side lot beside the tarped shapes that were his ovens, and he could not see her in it, only the light. He dried the tray and laid it on the steel table and set the second batch of dough beside it to come up to temperature. Tomorrow there would be twelve again. He laid them out in his head before he laid them out on the tray: six for Elijah, five for the framers and the last one at the near corner, where a person could reach it without having to look.
 
 # Chapter Five
 
@@ -784,7 +788,7 @@ Tara was on tread twelve, coming down. She had been in the hall since twenty to,
 
 She knew the nineteen treads by ear, as she knew her truck's engine. One groaned. Three ticked at the split. Seven had been reset in 1962 by somebody who used the wrong nails, and complained about it. Eleven had a wedge under its nosing that had shrunk since Eisenhower, so the board sat a hair proud and rang when it was stepped on, one short high note, like a struck bar. She had meant to fix it in September. She had written it on the list and then crossed it off, because a stair that told you who was on it was a stair worth leaving alone.
 
-Tread eight. Tread nine. Then his head came up into the light from the hall door, his cap, his shoulders, and a tray held level in front of his chest with a towel over it, and he looked up and saw her and stopped on tread ten.
+Tread eight. Tread nine. Then his head came up into the light from the hall door, his cap, his shoulders and a tray held level in front of his chest with a towel over it, and he looked up and saw her and stopped on tread ten.
 
 "Good morning," Nico said.
 
@@ -984,7 +988,7 @@ He smiled at her, and then he stopped smiling, because she had not asked it as a
 
 She went back to her slips. He covered the panels with a clean towel, set the timer for the isomalt, and did not look at the front window, through which, across Main Street, the trailer light had just come on.
 
-At seven he crossed with a test window in a piece of waxed paper and no reason that would survive being said out loud. He had not mentioned the stair. Neither had she.
+At seven he crossed with a test window in a piece of wax paper and no reason that would survive being said out loud. He had not mentioned the stair. Neither had she.
 
 Inside the trailer a radio was playing low, a man talking about the Patriots. He knocked on the door. The radio went off.
 
@@ -1010,7 +1014,7 @@ It was not finished. It was not yet a building at all. It was lumber. She had ba
 
 "With a dovetail saw. Twenty teeth to the inch." She did not move out of the door. "What do you want?"
 
-"I brought you a window." He held out the waxed paper and unfolded the corner, and the isomalt caught the clamp light, a thin clear pane with a faint green in it, the size of a playing card. "Test pour. It's isomalt, it's the one I told the booth about. It sets like glass. I thought, she's going to need a lantern. She's going to need something for the light to come through."
+"I brought you a window." He held out the wax paper and unfolded the corner, and the isomalt caught the clamp light, a thin clear pane with a faint green in it, the size of a playing card. "Test pour. It's isomalt, it's the one I told the booth about. It sets like glass. I thought, she's going to need a lantern. She's going to need something for the light to come through."
 
 She looked at the pane. She did not take it. Then she stood out of the doorway, which was not an invitation, he understood, so much as a decision that he would be less trouble inside than on the step letting the heat out.
 
@@ -1122,7 +1126,7 @@ Tara put down the saw and did something he had not seen her do with anyone yet, 
 
 "Base wider than you think," she said. "Everything square. And you let each joint set before you put weight on it. Every time. Even when you're in a hurry."
 
-Izzy wrote it down. Base wider. Square. Let it set. She underlined let it set twice and looked up.
+Izzy wrote it down. BASE WIDER. SQUARE. LET IT SET. She underlined LET IT SET twice and looked up.
 
 "Is that a secret?"
 
@@ -1164,7 +1168,7 @@ Tara shut the door.
 
 "Then she's going to beat you too."
 
-"Probably." She almost smiled. He watched it get as far as her eyes and change its mind, like a customer at the register who puts the cannoli back. He picked up the waxed paper from the corner of the desk and then put it down again, a little nearer her lumber than before. "Keep the window. For your lantern. You don't have to use it. You can count its panes."
+"Probably." She almost smiled. He watched it get as far as her eyes and change its mind, like a customer at the register who puts the cannoli back. He picked up the wax paper from the corner of the desk and then put it down again, a little nearer her lumber than before. "Keep the window. For your lantern. You don't have to use it. You can count its panes."
 
 She did not say she would keep it. She did not say she would not. She picked up the saw again, and he let himself out into the dark side lot, past the three tarps, toward Lourdes's lit kitchen and the supper she said she had not made too much of. At the curb he stopped and looked down Main Street toward the dock, where the street ran out and the breakwater began, and past it, out of sight from here, the ledge light was showing green over the black water every four seconds, as it had every night he had been in this town. Who counts the courses on a lighthouse from the end of a breakwater, with her father's binoculars, on a Sunday in October, for a contest she had not yet agreed to enter?
 
@@ -1312,7 +1316,7 @@ He did not raise it. Half the room turned anyway, and Josie Rinaldi did not turn
 
 "I'm usually right."
 
-"Usually's better. Always, you can't trust." Josie took a strip out of the box with a square of waxed paper and held it out. "Eat."
+"Usually's better. Always, you can't trust." Josie took a strip out of the box with a square of wax paper and held it out. "Eat."
 
 Tara put Mrs. Gorton's plate down next to the fondue set and took the strip. It was cold and sweet and sharp, thick sauce on soft bread, no cheese, every Saturday of her childhood on a job site in Providence. She ate half of it standing up before she remembered she did not eat in front of people.
 
@@ -1720,7 +1724,7 @@ Brian Doyle came up the sidewalk from his office with a folder under his arm and
 
 Tara looked at Nico. Nico looked at the agenda.
 
-"The front booth," Brian went on, "has told Olivia that the contractor put the tenant out of his own door, that the tenant stood up in the diner and called the chair rude, that there was a thing on the stair Thursday, and that you were seen in a van." He coughed. "That last one, I think, they meant as a separate item."
+"The front booth," Brian went on, "has told Olivia that the contractor put the tenant out of his own door, that the tenant stood up in the diner and called the chair rude, that there was a thing on the stair Thursday and that you were seen in a van." He coughed. "That last one, I think, they meant as a separate item."
 
 "She drove me to Warren," Tara said. "My truck was dead."
 
@@ -2078,7 +2082,7 @@ She poured the coffee milk into a paper cup, long and sweet and pale. "She'll kn
 
 The trailer door was not locked. He went up the step at twenty to four with the plate under wax paper and the cup in his other hand, and he did not look across at the supper-room windows, because if he looked he would be seen looking.
 
-Inside, the heater ticked. The drawings were pinned to one wall, and her vellum of the ledge light was beside them in its same pin hole. On the corner of the desk stood the little green pane of isomalt he had left her on Friday, propped on its edge where the window light came through it. She had not thrown it out. She had stood it up.
+Inside, the heater ticked. The drawings were pinned to one wall, and her vellum of the ledge light was beside them in its same pinhole. On the corner of the desk stood the little green pane of isomalt he had left her on Friday, propped on its edge where the window light came through it. She had not thrown it out. She had stood it up.
 
 On the cot lay the trim, in two moving blankets, with the crown wrapped separate in a towel. On the back of the top piece, in carpenter's pencil: 1, UP, STREET L. By the door hung the punch list, and he read it as he would have read a ticket rail. Item eleven, the supper-room door. KEEP, in her hand, ruled through with one straight line. Beside it, new: STORED, TRAILER. REINSTALL. Reinstall when? She had not written when.
 
@@ -2186,7 +2190,7 @@ It was a rehearsal night, so Nico had the kitchen until nine. He made tomorrow's
 
 It sat square in the middle of Lourdes's top step where nobody coming out could miss it. Washed, dried, wiped. The wax paper folded in four on top, edges lined up, and on the wax paper, holding it down against the wind, the paper cup, rinsed, with its lid snapped back on.
 
-You don't give a man back a dirty plate.
+*You don't give a man back a dirty plate.*
 
 He picked it up and held it against his chest. Across the street the trailer light was on, the last lit window on Main Street, and in the side lot the two ovens and the proofer sat under their tarps in her knots for their last night outside. In the morning they would go in straight, a quarter inch each side. He stood in the cold with the clean plate until the church clock at the top of the street struck nine, and then he went, because those were Lourdes's rules, and he kept them.
 
@@ -2826,7 +2830,7 @@ Nico stood at the wall with his arms folded and plaster on his shoulders and rea
 
 "In one day."
 
-"You can close the whole supper room ceiling in one day?"
+"You can close the whole supper-room ceiling in one day?"
 
 "If nobody's in the room." She did not look at him. "Twenty-four hours. No bakery. Nobody."
 
@@ -3084,7 +3088,7 @@ It was a two-by-ten sixteen feet long and heavier than any tray in Rhode Island,
 
 He looked through the doorway at his steel bench. On Tuesday, on that bench, he was supposed to be filling three hundred pieces for a law firm in Providence, his first paid Christmas order. She wanted the room for twenty-four hours on Tuesday. He had not said so. He went out for the next board, squeaking.
 
-The lighthouses went up Main Street at half past four behind Walt, who walked in front with both arms out directing traffic that did not exist: the Grange's tower on its plywood between Elijah and Tara, Nico's on a sheet tray against his chest, and Izzy Alves's on a cutting board in her own mittens, refusing all help, with her mother behind her carrying nothing.
+The lighthouses went up Main Street at half past four behind Walt, who walked in front with both arms out directing traffic that did not exist: the Grange's tower on its plywood between Elijah and Tara, Nico's on a sheet tray against his chest and Izzy Alves's on a cutting board in her own mittens, refusing all help, with her mother behind her carrying nothing.
 
 "She's had dinner," Vanessa Alves told the sidewalk. "She says she hasn't. She has."
 
@@ -3294,7 +3298,7 @@ At the bottom of the steps Joan turned round to Bev with her knitting. "Bev. Wha
 
 Walt opened his mouth. Harold stepped on his foot, gently, as a treasurer would, and Walt closed it.
 
-At a quarter to six the cast of The Keeper's Light came down Ferry Lane from the barn in a loose crowd, with Wayne Evans at the back of it, and the woman at the front, in a long black coat with a pencil through her hair, stopped at the foot of the church steps and counted them with a rolled script. "That's Rachel," Joan told Nico, without being asked. "She runs the play. Wayne runs the barn. Don't ask either one of them who's in charge." Rachel's count came out one short. She found Izzy on the bottom step and pointed the script at her once, as a director points at an actor who is late, and Izzy, who was not here, sat up straighter anyway. Izzy was Pip. Pip had two lines.
+At a quarter to six the cast of *The Keeper's Light* came down Ferry Lane from the barn in a loose crowd, with Wayne Evans at the back of it, and the woman at the front, in a long black coat with a pencil through her hair, stopped at the foot of the church steps and counted them with a rolled script. "That's Rachel," Joan told Nico, without being asked. "She runs the play. Wayne runs the barn. Don't ask either one of them who's in charge." Rachel's count came out one short. She found Izzy on the bottom step and pointed the script at her once, as a director points at an actor who is late, and Izzy, who was not here, sat up straighter anyway. Izzy was Pip. Pip had two lines.
 
 At a minute to six Ed Whitaker climbed onto the back of the fire truck and put up both hands. "Where's my loudest kid? Who's leading the count?"
 
@@ -3332,7 +3336,7 @@ Somebody at the back clapped, and then the green, for a building's lights stayin
 
 When the green had turned back to its tree, he took out Patricia's card and read it again under the lamp.
 
-Pause. Both lean the same way.
+*Pause. Both lean the same way.*
 
 She had not given Izzy one. She had given two. She had stood under that lamp for forty minutes while three lighthouses leaned on a pitched step, and she had come up only once, at the one moment when two people supposed to be at war bent over the same small tower at the same time, toward each other.
 
@@ -3468,7 +3472,7 @@ That was all. She put the pen back in her mouth and turned the binder round to t
 
 The last bolt went into the last sister at twenty to three.
 
-Every charred joist over the old kitchen now had a new two-by-ten beside it full length, glued and bolted through on the engineer's spacing, new yellow wood against old black. The board pencilled 1946 was still where it had been, nailed flat between three and four. She had worked round it all day. Nobody had asked her to. Olivia had asked her to on Friday, which was the same.
+Every charred joist over the old kitchen now had a new two-by-ten beside it full length, glued and bolted through on the engineer's spacing, new yellow wood against old black. The board penciled 1946 was still where it had been, nailed flat between three and four. She had worked round it all day. Nobody had asked her to. Olivia had asked her to on Friday, which was the same.
 
 Elijah stood under it with his hands on his hips. "Engineer Monday?"
 
@@ -3496,7 +3500,7 @@ He came down. He had worked two days on lumber in new boots and done everything 
 
 The breakwater ran out from the south side of the cove, flat on top, granite blocks laid when the town had money. The bench sat at the landward end where the blocks began, facing out. It was carved on every board. Initials, hearts, a date from 1988, a boat's name, somebody's dog. The wood had gone silver and soft under all of it. Somebody had sanded it once and given up.
 
-He was there first, with two coffees from the dock. The wind had dropped at sundown. The Bay was flat and black, and three quarters of a mile out on its rock the ledge light came up green, and went out, and came up.
+He was there first, with two coffees from the dock. The wind had dropped at sundown. The Bay was flat and black, and three-quarters of a mile out on its rock the ledge light came up green, and went out, and came up.
 
 She sat at the other end of the bench. He handed her a coffee across the middle.
 
@@ -3564,7 +3568,7 @@ She leaned.
 
 It was not for anybody. Nobody was on the dock. Nobody was on the breakwater. The front booth was home in bed with its money on the board. She put her shoulder against his arm and let some of her weight go into it, and he took it without shifting his feet, as he took everything, and sat still.
 
-The card was in her vest pocket against her ribs, in with the lumber ticket. Both lean the same way. She had thought Patricia meant the step.
+The card was in her vest pocket against her ribs, in with the lumber ticket. *Both lean the same way.* She had thought Patricia meant the step.
 
 The light came up and went out, and came up.
 
@@ -3720,7 +3724,7 @@ So at two he went into Lourdes's kitchen, as he always did, and shaped it, all o
 
 "On," said Elijah. "That's all she says. On."
 
-At nine he went back across with coffee. At midnight he went across with egg sandwiches in waxed paper and two thermoses, and they ate them sitting on drop cloths on the floor of his bakery under her ceiling, all five of them.
+At nine he went back across with coffee. At midnight he went across with egg sandwiches in wax paper and two thermoses, and they ate them sitting on drop cloths on the floor of his bakery under her ceiling, all five of them.
 
 "What's in it?" said Russ.
 
@@ -3750,7 +3754,7 @@ At three in the morning she let him in. "Nobody" had been the rule, and nobody h
 
 "Hold it here. Flat to the frame. Tell me when it's centered."
 
-The window was in the old kitchen ceiling, under the board pencilled 1946, where Olivia had wanted it: a small square of listed fire glass, the size of a hardcover book, in a steel frame, set into the new rated board so that from the floor with a flashlight you could look up through it into the dark and see the old pencil and the black wood and the new yellow sisters beside it. She had built the frame. When? Sometime between six in the morning and now, in a day with no room in it.
+The window was in the old kitchen ceiling, under the board penciled 1946, where Olivia had wanted it: a small square of listed fire glass, the size of a hardcover book, in a steel frame, set into the new rated board so that from the floor with a flashlight you could look up through it into the dark and see the old pencil and the black wood and the new yellow sisters beside it. She had built the frame. When? Sometime between six in the morning and now, in a day with no room in it.
 
 He went up the stepladder and put the level against the frame and held it.
 
@@ -3922,7 +3926,7 @@ She stood in the dark hall with her hands in her vest and breathed it. Then she 
 
 He looked at her for a moment, and did not say anything, and went back to the oven.
 
-He was at the steel bench with a tray of shells too hot to touch, and he held one out to her on a square of waxed paper.
+He was at the steel bench with a tray of shells too hot to touch, and he held one out to her on a square of wax paper.
 
 "Too hot," she said.
 
@@ -3934,7 +3938,7 @@ She took it. It burned through the paper into her fingers, and she held it anywa
 
 "I'm checking it bears load."
 
-"I'm telling my sister. When she calls at 4:15 tomorrow I'm going to tell her before she says hello." He set the tray down. "Tara. What did the joists cost you?"
+"I'm telling my sister. When she calls at four-fifteen tomorrow I'm going to tell her before she says hello." He set the tray down. "Tara. What did the joists cost you?"
 
 She had the shell in her hand. She had the card in her vest. She had the tickets in there with it, and Patricia's index card, and the arithmetic on January, all zipped in one pocket against her ribs.
 
@@ -3950,7 +3954,7 @@ He did not answer. She had not thought he would.
 
 "That's not how numbers work."
 
-"It's how mine work," she said, and put the rest of the shell down on the waxed paper on the bench, and looked at him.
+"It's how mine work," she said, and put the rest of the shell down on the wax paper on the bench, and looked at him.
 
 He had flour to the elbows and plaster dust on his shoulders from midnight, both, white on black, and she could not have told which was which with a loupe. He had not slept. He had lit his first oven anyway. The case was lit behind him. The fans pulled over both of them. Upstairs, through her floor, his grandfather's molasses was going into her hall.
 
@@ -4158,7 +4162,7 @@ Tara was beside him. She had not moved. She had read it upside down from across 
 
 "Ange."
 
-"I'm saying it in front of her because she's sitting here." Angela did not look up. "A fifth of December, cancelled by phone at a quarter to six in the morning, deposit refunded in full, and he didn't call me." She turned the laptop. "So. The thirty-first."
+"I'm saying it in front of her because she's sitting here." Angela did not look up. "A fifth of December, canceled by phone at a quarter to six in the morning, deposit refunded in full, and he didn't call me." She turned the laptop. "So. The thirty-first."
 
 "Can I see?" said Tara.
 
@@ -4272,7 +4276,7 @@ Sienna: marcus says ray put five on never
 
 "Then he's due," said Nico.
 
-The light changed. He drove. Somewhere behind them at the bottom of Main Street in Caswell Harbor, Curtis Byrne was standing on a chair in Gardiner's Tap with the bell over the door ringing, telling the whole cast of The Keeper's Light what the town thought of the two of them, and the two of them were in a van on Route 4 with a printout and seven fishes that were thirteen.
+The light changed. He drove. Somewhere behind them at the bottom of Main Street in Caswell Harbor, Curtis Byrne was standing on a chair in Gardiner's Tap with the bell over the door ringing, telling the whole cast of *The Keeper's Light* what the town thought of the two of them, and the two of them were in a van on Route 4 with a printout and seven fishes that were thirteen.
 
 "Your father gave me the eel," she said.
 
@@ -4490,7 +4494,7 @@ Behind the pie case the back of the specials board said THE CONTRACTOR AND THE B
 
 By dusk Elijah had gone home with his drill. The hall was locked behind them, the stage window going from gray to dark over the cove, and they came out through the new second exit together onto the top of the fire stair.
 
-It was wide enough for two. She had drawn it that way in April, on the night she took eleven percent off, because the code said so and because she had been up and down the old stair for a year turning sideways for everybody. They went down side by side. The treads said nothing under either of them. His boots squeaked, still new, and the rail was cold under her hand and under his, a foot further along.
+It was wide enough for two. She had drawn it that way in April, on the night she took eleven percent off, because the code said so and because she had been up and down the old stair for a year turning sideways for everybody. They went down side by side. The treads said nothing under either of them. His boots squeaked, still new, and the rail was cold under her hand and under his, a foot farther along.
 
 At the landing the stair knocked once, for both of them, the same low note.
 
@@ -4802,7 +4806,7 @@ There was a man at the counter she did not know. Fifty, heavy, in a Bruins jacke
 
 Nico was setting a shell on a napkin for Joan. He finished setting it.
 
-"I used to come in Saturdays," the man said. "The focaccia. With the rosemary and the salt, the big squares. My wife still talks about that focaccia. I'm on my way to a job in Westerly, I stop here every year, I never saw you." He was pleased and friendly, as if he had found something he'd lost. "What happened to that place?"
+"I used to come in Saturdays," the man said. "The focaccia. With the rosemary and the salt, the big squares. My wife still talks about that focaccia. I'm on my way to a job in Westerly, I stop here every year, I never saw you." He was pleased and friendly, as if he had found something he had lost. "What happened to that place?"
 
 Nico turned round with the empty tray. His face was already doing it, the thing it did for Olivia and the booth and every customer since November. She watched it start. The corners went up and his mouth opened on the first word of whatever he said to people about Westminster Street, something he had said a hundred times.
 
@@ -5278,7 +5282,7 @@ At eleven the trailer was the only lit window on Main Street. She crossed out it
 
 Sienna: ask
 
-That was all. One word, lower case. Tara read it twice. Then she turned the phone face down on the legal pad, on her column, and sat with her hands flat on the desk.
+That was all. One word, lowercase. Tara read it twice. Then she turned the phone face down on the legal pad, on her column, and sat with her hands flat on the desk.
 
 Over the desk the calendar still ran in two inks, and across the bottom of the week, through both columns, her own capitals still said BOTH, OR NEITHER. He had broken it smiling, in front of the marshal, and she had let him. Nobody had crossed it out. She had not either.
 
@@ -5618,7 +5622,7 @@ At eleven-forty Lachance took a pair of snips out of his jacket. He cut the twis
 
 Nobody said anything. Humberto looked at the ceiling. Vito drank his coffee.
 
-"For the record," said Lachance, putting the tag in his inside pocket, "this was a scheduled re-inspection." He looked at Tara. "Ms. Medeiros. I'll be upstairs at two. I'd like to see the window."
+"For the record," said Lachance, putting the tag in his inside pocket, "this was a scheduled reinspection." He looked at Tara. "Ms. Medeiros. I'll be upstairs at two. I'd like to see the window."
 
 "It's open at two," Tara said.
 
@@ -5662,7 +5666,7 @@ Olivia was alone in the hall at the folding table under the winners' board, whic
 
 Tara set it in the stage window. The sill was deep oak, worn soft at the front edge, and the three fit along it a hand's width apart: Izzy's at the left on its cutting board, the Grange's tower in the middle, his on the right, nearest the cove. She checked them for level. The sill was out an eighth to the north. Everything on it leaned the same way.
 
-At two she took the lockbox off the street door. It had hung on the left-hand knob since April with the key inside, for Marcus and the engineer and the lumber yard at six in the morning. She thumbed the code, took the key out and put the box in her vest.
+At two she took the lockbox off the street door. It had hung on the left-hand knob since April with the key inside, for Marcus and the engineer and the lumberyard at six in the morning. She thumbed the code, took the key out and put the box in her vest.
 
 "No speech?" said Elijah.
 
@@ -5894,7 +5898,7 @@ By dusk the case was lit and selling, and Angela was at the register reading pic
 
 "I'll leave it on the step."
 
-"Then you can eat it," said Lourdes, and went off down Main Street. Tara put her palm on the window sill under the case, out of habit. It read level. She had set it herself, and it had stayed level with half the town leaning on the glass. The town was going home in twos and threes to eat before the play.
+"Then you can eat it," said Lourdes, and went off down Main Street. Tara put her palm on the windowsill under the case, out of habit. It read level. She had set it herself, and it had stayed level with half the town leaning on the glass. The town was going home in twos and threes to eat before the play.
 
 Her father came out of the Grange and stood on the sidewalk in his canvas coat and looked up at the sign for a long time. He did not say anything. Her mother put a hand on his sleeve, and he let it stay, and went on not saying it.
 
@@ -6334,7 +6338,7 @@ Josie was in a good coat Tara had never seen, a dark green one, with no flour on
 
 Tara stood beside her and did not tell her. She did not know either.
 
-At seven the town went up Ferry Lane for the forty-second Keeper's Light, and the families stayed down and cooked.
+At seven the town went up Ferry Lane for the forty-second *Keeper's Light*, and the families stayed down and cooked.
 
 Fátima fried the bacalhau, as agreed at the soapstone sink a year ago, in Lourdes's kitchen, in Vito's black pan, which Vito had brought down from Federal Hill in a towel. Josie had boiled a piece of the baccalà at five with potatoes and cabbage and eggs and dressed it with oil and garlic, as she had been told, under supervision, and had then gone out in the green coat for two hours, and come back with her cheeks red from the cold and said nothing about it to anyone.
 

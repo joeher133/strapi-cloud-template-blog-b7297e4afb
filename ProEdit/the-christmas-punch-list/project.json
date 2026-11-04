@@ -6,7 +6,7 @@
   "chapters": 27,
   "chapter_note": "26 numbered chapters plus an Epilogue",
   "manuscript_path": "ProEdit/the-christmas-punch-list/The-Christmas-Punch-List.docx",
-  "working_manuscript": "ProEdit/the-christmas-punch-list/the-christmas-punch-list-line-edit-clean.docx",
+  "working_manuscript": "ProEdit/the-christmas-punch-list/the-christmas-punch-list-copy-edit-clean.docx",
   "extracted_text": "ProEdit/the-christmas-punch-list/manuscript-revised.md",
   "created": "2026-11-04",
   "stages": {
@@ -65,9 +65,15 @@
       }
     },
     "copy": {
-      "status": "in-progress",
-      "completed": null,
-      "artifact": null
+      "status": "done",
+      "completed": "2026-11-05",
+      "artifact": "ProEdit/the-christmas-punch-list/the-christmas-punch-list-copy-edit-tracked.docx",
+      "clean": "ProEdit/the-christmas-punch-list/the-christmas-punch-list-copy-edit-clean.docx",
+      "change_log": "ProEdit/the-christmas-punch-list/the-christmas-punch-list-copy-change-log.docx",
+      "counts": {
+        "corrections": 35,
+        "queries": 6
+      }
     },
     "continuity": {
       "status": "todo",
@@ -81,13 +87,13 @@
     }
   },
   "resume": {
-    "stage": "copy",
+    "stage": null,
     "chunk": 0,
-    "of": 7
+    "of": 0
   },
   "ledger_path": "ProEdit/the-christmas-punch-list/continuity-ledger.md",
   "map_path": "ProEdit/the-christmas-punch-list/manuscript-map.md",
-  "style_sheet_path": null,
+  "style_sheet_path": "ProEdit/the-christmas-punch-list/the-christmas-punch-list-style-sheet.docx",
   "final_manuscript": null,
   "report_format": "docx",
   "voice_profile": {
