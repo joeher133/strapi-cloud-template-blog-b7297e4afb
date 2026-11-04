@@ -13,7 +13,8 @@
     "dev": {
       "status": "done",
       "completed": "2026-11-04",
-      "artifact": "ProEdit/the-christmas-punch-list/the-christmas-punch-list-editorial-letter.docx"
+      "artifact": "ProEdit/the-christmas-punch-list/the-christmas-punch-list-editorial-letter.docx",
+      "revised": "2026-11-04"
     },
     "structure": {
       "status": "todo",
@@ -73,5 +74,7 @@
     "dialogue_style": "'Said' near-universal, often inverted ('said Lourdes'); other verbs rare ('agreed', 'asked'). Long runs of untagged rapid exchanges; action beats often replace tags. Distinct tics: Olivia's 'dear' and formal letters; Lourdes's clipped imperatives and 'honey'/'querida'; Curtis's 'It's a public service'; Tara's flat, short lines ('Somewhere else.' 'Terms.'); Nico runs on, says 'Okay', jokes and then restrains himself; Elijah's 'T' and 'Chef'. Portuguese words and short phrases (filha, Mãe, Pai, Eu sei, Consoada, O Menino mija?) sometimes glossed or reported rather than quoted; Italian limited to food terms and nicknames (Pop, Nicky, Ange, Jo). Texts set as labeled lines; Sienna and Nico text lowercase and unpunctuated, Tara texts capitalized with periods.",
     "narrative_distance": "Past tense, close third, one POV per chapter, alternating Tara (odd chapters, epilogue) and Nico (even chapters), each labeled at chapter head with a countdown dateline. Interiority runs as free indirect thought without italics; emotion is rendered through counting, measurement, and physical detail rather than named. Remembered lines of other people set alone as their own paragraphs ('It's just a name, filha.' 'Everybody comes back to the ovens, Nicky.'). Tara chapters lean on measurement, lists, and terse closes; Nico chapters carry more dialogue, food and family, and more free-indirect rhetorical questions ('What did it look like from her side of the van?'). Both share the same no-dash, and-chained syntax."
   },
-  "intake_completed": "2026-11-04"
+  "intake_completed": "2026-11-04",
+  "series": "Caswell Harbor",
+  "subtitle": "A Caswell Harbor Christmas Romance"
 }
