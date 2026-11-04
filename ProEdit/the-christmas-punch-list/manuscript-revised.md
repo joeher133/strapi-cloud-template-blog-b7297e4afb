@@ -1168,7 +1168,9 @@ Tara shut the door.
 
 "Then she's going to beat you too."
 
-"Probably." She almost smiled. He watched it get as far as her eyes and change its mind, like a customer at the register who puts the cannoli back. He picked up the wax paper from the corner of the desk and then put it down again, a little nearer her lumber than before. "Keep the window. For your lantern. You don't have to use it. You can count its panes."
+"Probably." She almost smiled. He watched it get as far as her eyes and change its mind, like a customer at the register who puts the cannoli back.
+
+He picked up the wax paper from the corner of the desk and then put it down again, a little nearer her lumber than before. "Keep the window. For your lantern. You don't have to use it. You can count its panes."
 
 She did not say she would keep it. She did not say she would not. She picked up the saw again, and he let himself out into the dark side lot, past the three tarps, toward Lourdes's lit kitchen and the supper she said she had not made too much of. At the curb he stopped and looked down Main Street toward the dock, where the street ran out and the breakwater began, and past it, out of sight from here, the ledge light was showing green over the black water every four seconds, as it had every night he had been in this town. Who counts the courses on a lighthouse from the end of a breakwater, with her father's binoculars, on a Sunday in October, for a contest she had not yet agreed to enter?
 
@@ -5698,7 +5700,9 @@ It burned through the paper. Tara ate it.
 
 She went down for the struffoli. Nico came up last with Olivia's cake held in front of him in both hands, and at the top of the stair he stopped, because there were three lighthouses on the stage window. He looked at them a long time. Then he found her across the room, and went to put the cake down.
 
-Lachance stood by the east wall in his department jacket with a shell on a napkin, looking at the sash. "Marshal."
+Lachance stood by the east wall in his department jacket with a shell on a napkin, looking at the sash.
+
+"Marshal."
 
 "Ms. Medeiros. You did the cords."
 
